@@ -1,5 +1,5 @@
 # Survey Security Privacy Neuromorphic Computing
-This repository extends from our recent work, "Emerging Threats and Countermeasures in Neuromorphic Systems: A Survey" By designing and analyzing Memristor Devices for Neuromorphic Computing, Spiking Neural Networks (SNNs), Physically Unclonable Functions (PUFs), True Random Number Generators (TRNGs), we are investigating the relationship between In Memory Computing Systems and their hardware and software security.
+This repository extends from our recent work, "Emerging Threats and Countermeasures in Neuromorphic Systems: A Survey." By designing and analyzing Memristor Devices for Neuromorphic Computing, Spiking Neural Networks (SNNs), Physically Unclonable Functions (PUFs), True Random Number Generators (TRNGs), we are investigating the relationship between In Memory Computing Systems and their hardware and software security.
 
 ## Contents / Key Topics
 - [Research Papers and Studies](#Research-Papers-and-Studies)
