@@ -1,15 +1,17 @@
 # Survey Security Privacy Neuromorphic Computing
 This repository extends from our recent work, "Emerging Threats and Countermeasures in Neuromorphic Systems: A Survey" By designing and analyzing Memristor Devices for Neuromorphic Computing, Spiking Neural Networks (SNNs), Physically Unclonable Functions (PUFs), True Random Number Generators (TRNGs), we are investigating the relationship between In Memory Computing Systems and their hardware and software security.
 
-## Key Topics
-### Introduction to Neuromorphic Computing
-### Hardware Vulnerabilities
-### Software Attacks
-### Countermeasures
+## Contents / Key Topics
+- [Research Papers and Studies](#Research-Papers-and-Studies)
+- [Neuromorphic Computing](#Neuromorphic-Computing)
+- [Spiking Neural Networks](#Spiking-Neural-Networks)
+- [Types of Threads](#Types-of-Threads)
+- [Hardware Vulnerabilities and Countermeasures](#Hardware-Vulnerabilities-and-Countermeasures)
+- [Software Attacks and Defensive Strategies](#Software-Attacks-and-Defensive-Strategies)
+- [Emeging Security Applications](#Emeging-Security-Applications)
+- [Collaboration and Contribution](#Collaboration-and-Contribution)
 
 ## Research Papers and Studies
-
-
 
 * "True Random Number Generator Based on the Variability of the High Resistance State of RRAMs" - Maryam Akbari et al., 2023
 * "Truenorth: Design and tool flow of a 65 mw 1 million neuron programmable neurosynaptic chip" - Filipp Akopyan et al., 2015
@@ -75,19 +77,6 @@ This repository extends from our recent work, "Emerging Threats and Countermeasu
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### *Neuromorphic Computing*
 * "Opportunities for neuromorphic computing algorithms and applications" - Catherine D. Schuman et al., 2022
 * "A Survey of Neuromorphic Computing and Neural Networks in Hardware" - Catherine D. Schuman et al., 2017
@@ -95,8 +84,6 @@ This repository extends from our recent work, "Emerging Threats and Countermeasu
 * "Breaking the von Neumann bottleneck: architecture-level processing-in-memory technology" - S. Xu X. Zou and X. Chen, 2021
 * "Memristor-based spiking neural networks: cooperative development of neural network architecture/algorithms and memristors" - Huihui Peng, Lin Gan, and Xin Guo, 2024
 * "Hardware implementation of memristor-based artificial neural networks" - Fernando Aguirre et al., 2024
-
-
 
 ### *Spiking Neural Networks*
 * "Exploring Neuromorphic Computing Based on Spiking Neural Networks: Algorithms to Hardware" - Nitin Rathi et al., 2023
