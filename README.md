@@ -9,11 +9,8 @@ This repository extends from our recent work, "Emerging Threats and Countermeasu
 
 ## Research Papers and Studies
 
-* "Memristor Technology: Synthesis and Modeling for Sensing and Security Applications" - Heba Abunahla and Baker Mohammad, 2018
-* "A robust deep learning attack immune MRAM-based physical unclonable function" - Mohammad Javad Adel et al., 2024
-* "The EM Side—Channel(s)" - Dakshi Agrawal et al., 2003
-* "Hardware implementation of memristor-based artificial neural networks" - Fernando Aguirre et al., 2024
-* "Application of the Quasi-Static Memdiode Model in Cross-Point Arrays for Large Dataset Pattern Recognition" - Fernando Leonel Aguirre et al., 2020
+
+
 * "True Random Number Generator Based on the Variability of the High Resistance State of RRAMs" - Maryam Akbari et al., 2023
 * "Truenorth: Design and tool flow of a 65 mw 1 million neuron programmable neurosynaptic chip" - Filipp Akopyan et al., 2015
 * "True Random Number Generator for Reliable Hardware Security Modules Based on a Neuromorphic Variation-Tolerant Spintronic Structure" - Abdolah Amirany, Kian Jafari, and Mohammad Hossein Moaiyeri, 2020
@@ -75,53 +72,9 @@ This repository extends from our recent work, "Emerging Threats and Countermeasu
 * "PUF-Phenotype: A Robust and Noise-Resilient Approach to Aid Group-Based Authentication With DRAM-PUFs Using Machine Learning" - Owen Millwood et al., 2023
 * "Are neuromorphic architectures inherently privacy-preserving? an exploratory study" - Ayana Moshruba,
 * "System model of neuromorphic sequence learning on a memristive crossbar array" - Sebastian Siegel et al., 2023
-* "Hardware security primitives using passive rram crossbar array: Novel trng and puf designs" - Simranjeet Singh et al., 2023
-* "Era of Sentinel Tech: Charting Hardware Security Landscapes Through Post-Silicon Innovation, Threat Mitigation and Future Trajectories" - Mamidipaka B. R. Srinivas and Konguvel Elango, 2024
-* "A Survey of Neuromorphic Computing-in-Memory: Architectures, Simulators, and Security" - Felix Staudigl et al., 2022
-* "NeuroHammer: Inducing bit-flips in memristive crossbar memories" - Felix Staudigl et al., 2022
-* "NVM-Flip: Non-Volatile-Memory BitFlips on the System Level" - Felix Staudigl et al., 2024
-* "Robustness of spiking Deep Belief Networks to noise and reduced bit precision of neuro-inspired hardware platforms" - Evangelos Stromatias et al., 2015
-* "A Survey on the Security of PUFs" - Shuqin Su et al., 2021
-* "In-Memory Unified TRNG and Multi-Bit PUF for Ubiquitous Hardware Security" - Sachin Taneja, Viveka Konandur Rajanna, and Massimo Alioto, 2022
-* "Emerging topics in hardware security" - Mark Tehranipoor, 2021
-* "Neuroattack: Undermining spiking neural networks security through externally triggered bit-flips" - Valerio Venceslai et al., 2020
-* "Efficient Implementation of Mahalanobis Distance on Ferroelectric FinFET Crossbar for Outlier Detection" - Musaib Rafiq, Yogesh Singh Chauhan, and Shubham Sahay, 2024
-* "Understanding Security Threats in Emerging Neuromorphic Computing Architecture" - Chidhambaranathan Rajamanikkam et al., 2021
-* "Side-channel attack analysis on in-memory computing architectures" - Ziyu Wang et al., 2023
-* "Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator" - Kwunhang Wong et al., 2024
-* "Hardware Trojans in eNVM Neuromorphic Devices" - Lingxi Wu et al., 2023
-* "Breaking the von Neumann bottleneck: architecture-level processing-in-memory technology" - S. Xu X. Zou and X. Chen, 2021
-* "Attacking the Spike: On the Transferability and Security of Spiking Neural Networks to Adversarial Examples" - Nuo Xu et al., 2023
-* "Blockhammer: Preventing rowhammer at low cost by blacklisting rapidly-accessed dram rows" - A Giray Yağlikçi et al., 2021
-* "Mercury: An automated remote side-channel attack to nvidia deep learning accelerator" - Xiaobei Yan et al., 2023
-* "RRAM Random Number Generator Based on Train of Pulses" - Binbin Yang et al., 2021
-* "A novel physical unclonable function (PUF) using 16 × 16 pure-HfOx ferroelectric tunnel junction array for security applications" - Junsu Yu et al., 2021
-* "Hardware functional obfuscation with ferroelectric active interconnects" - Tongguang Yu et al., 2022
-* "HyperTheft: Thieving Model Weights from TEE-Shielded Neural Networks via Ciphertext Side Channels" - Yuanyuan Yuan et al., 2024
-* "Brain-inspired methods for achieving robust computation in heterogeneous mixed-signal neuromorphic processing systems" - Dmitrii Zendrikov, Sergio Solinas, and Giacomo Indiveri, 2023
-* "Enhancing security of memristor computing system through secure weight mapping" - Minhui Zou et al., 2022
-* "FTC: A universal framework for fault-injection attack detection and prevention" - Md Rafid Muttaki et al., 2024
-* "Analysis of power-oriented fault injection attacks on spiking neural networks" - Karthikeyan Nagarajan et al., 2022
-* "Fault Injection Attacks in Spiking Neural Networks and Countermeasures" - Karthikeyan Nagarajan et al., 2022
-* "SCANN: Side Channel Analysis of Spiking Neural Networks" - Karthikeyan Nagarajan et al., 2023
-* "Securing
-*  On-Chip Learning: Navigating Vulnerabilities and Potential Safeguards in Spiking Neural Network Architectures" - Najmeh Nazari et al., 2024
-* "Securing Against Side-Channel Attacks With Wide-Range In Situ Random Voltage Dithering on Async-Logic AES Engine" - Jun-Sheng Ng et al., 2024
-* "Threshold Implementations Against Side-Channel Attacks and Glitches" - Svetla Nikova, Christian Rechberger, and Vincent Rijmen, 2006
-* "Memristor-Based Security Primitives Robust to Malicious Attacks for Highly Secure Neuromorphic Systems" - Jungyeop Oh et al., 2022
-* "Suppression of crosstalk in row–column actuator array using regulation of ferroelectric polarization" - Jin Soo Park et al., 2023
-* "Error Detection and Correction Codes for Safe In-Memory Computations" - Luca Parrini et al., 2024
-* "Advancing hardware security using polymorphic and stochastic spin-hall effect devices" - Satwik Patnaik et al., 2018
-* "Memristor-based spiking neural networks: cooperative development of neural network architecture/algorithms and memristors" - Huihui Peng, Lin Gan, and Xin Guo, 2024
-* "More practical single-trace attacks on the number theoretic transform" - Peter Pessl and Robert Primas, 2019
-* "SoK: Deep Learning-based Physical Side-channel Analysis" - Stjepan Picek et al., 2023
-* "Watermarking Neuromorphic Brains: Intellectual Property Protection in Spiking Neural Networks" - Hamed Poursiami, Ihsen Alouani, and Maryam Parsa, 2024
-* "Side-Channel Analysis of Integrate-and-Fire Neurons Within Spiking Neural Networks" - Matthias Probst, Manuel Brosch, and Georg Sigl, 2025
-* "Simulation of a memristor-based spiking neural network immune to device variations" - Damien Querlioz, Olivier Bichler, and Christian Gamrat, 2011
-* "Efficient Implementation of Mahalanobis Distance on Ferroelectric FinFET Crossbar for Outlier Detection" - Musaib Rafiq, Yogesh Singh Chauhan, and Shubham Sahay, 2024
-* "Understanding Security Threats in Emerging Neuromorphic Computing Architecture" - Chidhambaranathan Rajamanikkam et al., 2021
-* "TBT: Targeted Neural Network Attack With Bit Trojan" - Adnan Siraj Rakin, Zhezhi He, and Deliang Fan, 2020
-* "Deepsteal: Advanced model extractions leveraging efficient weight stealing in memories" - Adnan Siraj Rakin et al., 2022
+
+
+
 
 
 
@@ -138,26 +91,84 @@ This repository extends from our recent work, "Emerging Threats and Countermeasu
 ### *Neuromorphic Computing*
 * "Opportunities for neuromorphic computing algorithms and applications" - Catherine D. Schuman et al., 2022
 * "A Survey of Neuromorphic Computing and Neural Networks in Hardware" - Catherine D. Schuman et al., 2017
+* "Brain-inspired methods for achieving robust computation in heterogeneous mixed-signal neuromorphic processing systems" - Dmitrii Zendrikov, Sergio Solinas, and Giacomo Indiveri, 2023
+* "Breaking the von Neumann bottleneck: architecture-level processing-in-memory technology" - S. Xu X. Zou and X. Chen, 2021
+* "Memristor-based spiking neural networks: cooperative development of neural network architecture/algorithms and memristors" - Huihui Peng, Lin Gan, and Xin Guo, 2024
+* "Hardware implementation of memristor-based artificial neural networks" - Fernando Aguirre et al., 2024
+
+
 
 ### *Spiking Neural Networks*
 * "Exploring Neuromorphic Computing Based on Spiking Neural Networks: Algorithms to Hardware" - Nitin Rathi et al., 2023
-* "Spiking neural networks based on two-dimensional materials" - Juan B Roldan, 2022 
+* "Spiking neural networks based on two-dimensional materials" - Juan B Roldan, 2022
+* "Simulation of a memristor-based spiking neural network immune to device variations" - Damien Querlioz, Olivier Bichler, and Christian Gamrat, 2011
+
 ### *Types of Threads*
--  
-### *Related Surveys*
-- 
+* "SoK: Deep Learning-based Physical Side-channel Analysis" - Stjepan Picek et al., 2023
+* "Understanding Security Threats in Emerging Neuromorphic Computing Architecture" - Chidhambaranathan Rajamanikkam et al., 2021
+* "Threshold Implementations Against Side-Channel Attacks and Glitches" - Svetla Nikova, Christian Rechberger, and Vincent Rijmen, 2006
+* "The EM Side—Channel(s)" - Dakshi Agrawal et al., 2003
+  
 ### *Hardware Vulnerabilities and Countermeasures*
 * "IMCE: An In-Memory Computing and Encrypting Hardware Architecture for Robust Edge Security" - Hanyong Shao et al., 2024
 * "SCARE: Side Channel Attack on In-Memory Computing for Reverse Engineering" - Sina Sayyah Ensan et al., 2021
+* "Deepsteal: Advanced model extractions leveraging efficient weight stealing in memories" - Adnan Siraj Rakin et al., 2022
+* "Understanding Security Threats in Emerging Neuromorphic Computing Architecture" - Chidhambaranathan Rajamanikkam et al., 2021
+* "More practical single-trace attacks on the number theoretic transform" - Peter Pessl and Robert Primas, 2019
+* "Error Detection and Correction Codes for Safe In-Memory Computations" - Luca Parrini et al., 2024
+* "A Survey of Neuromorphic Computing-in-Memory: Architectures, Simulators, and Security" - Felix Staudigl et al., 2022
+* "Securing Against Side-Channel Attacks With Wide-Range In Situ Random Voltage Dithering on Async-Logic AES Engine" - Jun-Sheng Ng et al., 2024
+* "FTC: A universal framework for fault-injection attack detection and prevention" - Md Rafid Muttaki et al., 2024
+* "Enhancing security of memristor computing system through secure weight mapping" - Minhui Zou et al., 2022
+* "Hardware functional obfuscation with ferroelectric active interconnects" - Tongguang Yu et al., 2022
+* "Mercury: An automated remote side-channel attack to nvidia deep learning accelerator" - Xiaobei Yan et al., 2023
+* "Blockhammer: Preventing rowhammer at low cost by blacklisting rapidly-accessed dram rows" - A Giray Yağlikçi et al., 2021
+* "Hardware Trojans in eNVM Neuromorphic Devices" - Lingxi Wu et al., 2023
+* "Side-channel attack analysis on in-memory computing architectures" - Ziyu Wang et al., 2023
+* "Understanding Security Threats in Emerging Neuromorphic Computing Architecture" - Chidhambaranathan Rajamanikkam et al., 2021
+* "NeuroHammer: Inducing bit-flips in memristive crossbar memories" - Felix Staudigl et al., 2022
+* "Emerging topics in hardware security" - Mark Tehranipoor, 2021
+* "NVM-Flip: Non-Volatile-Memory BitFlips on the System Level" - Felix Staudigl et al., 2024
+* "Era of Sentinel Tech: Charting Hardware Security Landscapes Through Post-Silicon Innovation, Threat Mitigation and Future Trajectories" - Mamidipaka B. R. Srinivas and Konguvel Elango, 2024
+
+
 ### *Software Attacks and Defensive Strategies*
 * "Sneaky Spikes: Uncovering Stealthy Backdoor Attacks in Spiking Neural Networks with Neuromorphic Data" - Gorka Abad et al., 2024
 * "Moving Target Defense Through Approximation for Low-Power Neuromorphic Edge Intelligence" - Ayesha Siddique and Khaza Anuarul Hoque, 2024
 * "Improving Reliability of Spiking Neural Networks through Fault Aware Threshold Voltage Optimization" - Ayesha Siddique and Khaza Anuarul Hoque, 2023
 * "Adversarial Machine Learning Attacks and Defense Methods in the Cyber Security Domain" - Ishai Rosenberg et al., 2021
+* "TBT: Targeted Neural Network Attack With Bit Trojan" - Adnan Siraj Rakin, Zhezhi He, and Deliang Fan, 2020
+* "Analysis of power-oriented fault injection attacks on spiking neural networks" - Karthikeyan Nagarajan et al., 2022
+* "Side-Channel Analysis of Integrate-and-Fire Neurons Within Spiking Neural Networks" - Matthias Probst, Manuel Brosch, and Georg Sigl, 2025
+* "Watermarking Neuromorphic Brains: Intellectual Property Protection in Spiking Neural Networks" - Hamed Poursiami, Ihsen Alouani, and Maryam Parsa, 2024
+* "Securing on-Chip Learning: Navigating Vulnerabilities and Potential Safeguards in Spiking Neural Network Architectures" - Najmeh Nazari et al., 2024
+* "SCANN: Side Channel Analysis of Spiking Neural Networks" - Karthikeyan Nagarajan et al., 2023
+* "Fault Injection Attacks in Spiking Neural Networks and Countermeasures" - Karthikeyan Nagarajan et al., 2022
+* "HyperTheft: Thieving Model Weights from TEE-Shielded Neural Networks via Ciphertext Side Channels" - Yuanyuan Yuan et al., 2024
+* "Attacking the Spike: On the Transferability and Security of Spiking Neural Networks to Adversarial Examples" - Nuo Xu et al., 2023
+* "Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator" - Kwunhang Wong et al., 2024
+* "Neuroattack: Undermining spiking neural networks security through externally triggered bit-flips" - Valerio Venceslai et al., 2020
+* "Robustness of spiking Deep Belief Networks to noise and reduced bit precision of neuro-inspired hardware platforms" - Evangelos Stromatias et al., 2015
+
+
+
 
 ### *Emeging Security Applications*
 * "Defense Method Against Adversarial Example Attacks using Thermal Noise of a CMOS Image Sensor" - Yuki Rogi et al., 2024
- 
+* "Memristor Technology: Synthesis and Modeling for Sensing and Security Applications" - Heba Abunahla and Baker Mohammad, 2018
+* "Efficient Implementation of Mahalanobis Distance on Ferroelectric FinFET Crossbar for Outlier Detection" - Musaib Rafiq, Yogesh Singh Chauhan, and Shubham Sahay, 2024
+* "Advancing hardware security using polymorphic and stochastic spin-hall effect devices" - Satwik Patnaik et al., 2018
+* "Suppression of crosstalk in row–column actuator array using regulation of ferroelectric polarization" - Jin Soo Park et al., 2023
+* "Memristor-Based Security Primitives Robust to Malicious Attacks for Highly Secure Neuromorphic Systems" - Jungyeop Oh et al., 2022
+* "A novel physical unclonable function (PUF) using 16 × 16 pure-HfOx ferroelectric tunnel junction array for security applications" - Junsu Yu et al., 2021
+* "RRAM Random Number Generator Based on Train of Pulses" - Binbin Yang et al., 2021
+* "Efficient Implementation of Mahalanobis Distance on Ferroelectric FinFET Crossbar for Outlier Detection" - Musaib Rafiq, Yogesh Singh Chauhan, and Shubham Sahay, 2024
+* "A robust deep learning attack immune MRAM-based physical unclonable function" - Mohammad Javad Adel et al., 2024
+* "Application of the Quasi-Static Memdiode Model in Cross-Point Arrays for Large Dataset Pattern Recognition" - Fernando Leonel Aguirre et al., 2020
+* "A Survey on the Security of PUFs" - Shuqin Su et al., 2021
+* "In-Memory Unified TRNG and Multi-Bit PUF for Ubiquitous Hardware Security" - Sachin Taneja, Viveka Konandur Rajanna, and Massimo Alioto, 2022
+* "Hardware security primitives using passive rram crossbar array: Novel TRNG and PUF designs" - Simranjeet Singh et al., 2023
+
 
 ## Collaboration and Contribution
 We encourage contributions from the community. For any questions or support, please reach out through: sorrentino.pablo.fa@gmail.com 
