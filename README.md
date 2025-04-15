@@ -1,7 +1,7 @@
 # Survey Security Privacy Neuromorphic Computing
 This repository extends from our recent work, "Emerging Threats and Countermeasures in Neuromorphic Systems: A Survey." By designing and analyzing Memristor Devices for Neuromorphic Computing, Spiking Neural Networks (SNNs), Physically Unclonable Functions (PUFs), True Random Number Generators (TRNGs), we are investigating the relationship between In Memory Computing Systems and their hardware and software security.
 
-## Contents / Key Topics
+## 📖 Contents / Key Topics
 - [Neuromorphic Computing](#Neuromorphic-Computing)
 - [Spiking Neural Networks](#Spiking-Neural-Networks)
 - [Types of Threads](#Types-of-Threads)
@@ -10,7 +10,7 @@ This repository extends from our recent work, "Emerging Threats and Countermeasu
 - [Emeging Security Applications](#Emeging-Security-Applications)
 - [Collaboration and Contribution](#Collaboration-and-Contribution)
 
-### *Neuromorphic Computing and Memristors*
+### 🧠 *Neuromorphic Computing and Memristors*
 * "Opportunities for neuromorphic computing algorithms and applications" - Catherine D. Schuman et al., 2022
 * "A Survey of Neuromorphic Computing and Neural Networks in Hardware" - Catherine D. Schuman et al., 2017
 * "Brain-inspired methods for achieving robust computation in heterogeneous mixed-signal neuromorphic processing systems" - Dmitrii Zendrikov, Sergio Solinas, and Giacomo Indiveri, 2023
@@ -29,7 +29,7 @@ This repository extends from our recent work, "Emerging Threats and Countermeasu
 * "Tunability of voltage pulse mediated memristive functionality by varying doping concentration in SrTiO3" - A. S. Goossens and T. Banerjee, 2023
 * "Electrochemical-Memristor-Based Artificial Neurons and Synapses Fundamentals, Applications, and Challenges" - Shaochuan Chen et al., 2023
 
-### *Spiking Neural Networks*
+### ⚡*Spiking Neural Networks*
 * "Exploring Neuromorphic Computing Based on Spiking Neural Networks: Algorithms to Hardware" - Nitin Rathi et al., 2023
 * "Spiking neural networks based on two-dimensional materials" - Juan B Roldan, 2022
 * "Simulation of a memristor-based spiking neural network immune to device variations" - Damien Querlioz, Olivier Bichler, and Christian Gamrat, 2011
@@ -39,7 +39,7 @@ This repository extends from our recent work, "Emerging Threats and Countermeasu
 * "Nengo: a Python tool for building large-scale functional brain models" - Trevor Bekolay et al., 2014
 * "SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence" - Wei Fang et al., 2023
 
-### *Types of Threads*
+### ⚠️*Types of Threads*
 * "SoK: Deep Learning-based Physical Side-channel Analysis" - Stjepan Picek et al., 2023
 * "Understanding Security Threats in Emerging Neuromorphic Computing Architecture" - Chidhambaranathan Rajamanikkam et al., 2021
 * "Threshold Implementations Against Side-Channel Attacks and Glitches" - Svetla Nikova, Christian Rechberger, and Vincent Rijmen, 2006
@@ -52,7 +52,7 @@ This repository extends from our recent work, "Emerging Threats and Countermeasu
 * "Electromagnetic Analysis: Concrete Results" - Karine Gandolfi, Christophe Mourtel, and Francis Olivier, 2001
 * "On the importance of checking cryptographic protocols for faults" - Dan Boneh, Richard A DeMillo, and Richard J Lipton, 1997
 
-### *Hardware Vulnerabilities and Countermeasures*
+### 🛠️ *Hardware Vulnerabilities and Countermeasures*
 * "IMCE: An In-Memory Computing and Encrypting Hardware Architecture for Robust Edge Security" - Hanyong Shao et al., 2024
 * "SCARE: Side Channel Attack on In-Memory Computing for Reverse Engineering" - Sina Sayyah Ensan et al., 2021
 * "Deepsteal: Advanced model extractions leveraging efficient weight stealing in memories" - Adnan Siraj Rakin et al., 2022
@@ -89,7 +89,7 @@ This repository extends from our recent work, "Emerging Threats and Countermeasu
 * "Understanding and Characterizing Side Channels Exploiting Phase-Change Memories" - Md Hafizul Islam Chowdhuryy et al., 2023
 * "Exploiting the switching dynamics of HfO2-based ReRAM devices for reliable analog memristive behavior" - F. Cüppers et al., 2019
 
-### *Software Attacks and Defensive Strategies*
+### 🖥️ *Software Attacks and Defensive Strategies*
 * "Sneaky Spikes: Uncovering Stealthy Backdoor Attacks in Spiking Neural Networks with Neuromorphic Data" - Gorka Abad et al., 2024
 * "Moving Target Defense Through Approximation for Low-Power Neuromorphic Edge Intelligence" - Ayesha Siddique and Khaza Anuarul Hoque, 2024
 * "Improving Reliability of Spiking Neural Networks through Fault Aware Threshold Voltage Optimization" - Ayesha Siddique and Khaza Anuarul Hoque, 2023
@@ -118,7 +118,7 @@ This repository extends from our recent work, "Emerging Threats and Countermeasu
 * "On the Need of Neuromorphic Twins to Detect Denial-of-Service Attacks on Communication Networks" - Holger Boche et al., 2024
 * "Enhancing the Robustness of Spiking Neural Networks with Stochastic Gating Mechanisms" - Jianhao Ding et al., 2024
 
-### *Emeging Security Applications*
+### 🚀 *Emeging Security Applications*
 * "Defense Method Against Adversarial Example Attacks using Thermal Noise of a CMOS Image Sensor" - Yuki Rogi et al., 2024
 * "Memristor Technology: Synthesis and Modeling for Sensing and Security Applications" - Heba Abunahla and Baker Mohammad, 2018
 * "Efficient Implementation of Mahalanobis Distance on Ferroelectric FinFET Crossbar for Outlier Detection" - Musaib Rafiq, Yogesh Singh Chauhan, and Shubham Sahay, 2024
@@ -147,5 +147,5 @@ This repository extends from our recent work, "Emerging Threats and Countermeasu
 * "A bio-inspired physically transient/biodegradable synapse for security neuromorphic computing based on memristors" - Bingjie Dang et al., 2018
 * "Attack Resilient True Random Number Generators Using Ferroelectric-Enhanced Stochasticity in 2D Transistor" - Yu-Chieh Chien et al., 2023
 
-## Collaboration and Contribution
+## 🤝 Collaboration and Contribution
 We encourage contributions from the community. For any questions or support, please reach out through: sorrentino.pablo.fa@gmail.com 
