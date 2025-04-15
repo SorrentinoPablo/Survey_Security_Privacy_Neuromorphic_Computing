@@ -32,23 +32,22 @@ This repository extends from our recent work, "Emerging Threats and Countermeasu
 ### ⚡*Spiking Neural Networks*
 * "Exploring Neuromorphic Computing Based on Spiking Neural Networks: Algorithms to Hardware" - Nitin Rathi et al., 2023
 * "Spiking neural networks based on two-dimensional materials" - Juan B Roldan, 2022
-* "Simulation of a memristor-based spiking neural network immune to device variations" - Damien Querlioz, Olivier Bichler, and Christian Gamrat, 2011
 * "Programming spiking neural networks on Intel’s Loihi" - Min Lin, Qiang Chen, and Shuicheng Yan, 2018
 * "Memory and Information Processing in Neuromorphic Systems" - Giacomo Indiveri and Shih-Chii Liu, 2015
 * "Spiking deep networks with LIF neurons" - Eric Hunsberger and Chris Eliasmith, 2015
+* "Simulation of a memristor-based spiking neural network immune to device variations" - Damien Querlioz, Olivier Bichler, and Christian Gamrat, 2011
 * "Nengo: a Python tool for building large-scale functional brain models" - Trevor Bekolay et al., 2014
 * "SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence" - Wei Fang et al., 2023
 
 ### ⚠️*Types of Threads*
 * "SoK: Deep Learning-based Physical Side-channel Analysis" - Stjepan Picek et al., 2023
 * "Understanding Security Threats in Emerging Neuromorphic Computing Architecture" - Chidhambaranathan Rajamanikkam et al., 2021
-* "Threshold Implementations Against Side-Channel Attacks and Glitches" - Svetla Nikova, Christian Rechberger, and Vincent Rijmen, 2006
-* "The EM Side—Channel(s)" - Dakshi Agrawal et al., 2003
-* "On the importance of checking cryptographic protocols for faults" - Dan Boneh, Richard A DeMillo, and Richard J Lipton, 1997
 * "Meltdown: reading kernel memory from user space" - Moritz Lipp et al., 2020
 * "Spectre Attacks: Exploiting Speculative Execution" - Paul Kocher et al., 2019
-* "Private Circuits: Securing Hardware against Probing Attacks" - Yuval Ishai, Amit Sahai, and David Wagner, 2003
+* "Threshold Implementations Against Side-Channel Attacks and Glitches" - Svetla Nikova, Christian Rechberger, and Vincent Rijmen, 2006
 * "Correlation Power Analysis with a Leakage Model" - Eric Brier, Christophe Clavier, and Francis Olivier, 2004
+* "The EM Side—Channel(s)" - Dakshi Agrawal et al., 2003
+* "Private Circuits: Securing Hardware against Probing Attacks" - Yuval Ishai, Amit Sahai, and David Wagner, 2003
 * "Electromagnetic Analysis: Concrete Results" - Karine Gandolfi, Christophe Mourtel, and Francis Olivier, 2001
 * "On the importance of checking cryptographic protocols for faults" - Dan Boneh, Richard A DeMillo, and Richard J Lipton, 1997
 
