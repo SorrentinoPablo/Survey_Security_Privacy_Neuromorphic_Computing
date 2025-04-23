@@ -11,8 +11,8 @@ This repository extends from our recent work, "Emerging Threats and Countermeasu
 - [Collaboration and Contribution](#Collaboration-and-Contribution)
 
 ### 🧠 *Neuromorphic Computing and Memristors*
-* "Opportunities for neuromorphic computing algorithms and applications" - Catherine D. Schuman et al., 2022
 * "A Survey of Neuromorphic Computing and Neural Networks in Hardware" - Catherine D. Schuman et al., 2017
+* "Opportunities for neuromorphic computing algorithms and applications" - Catherine D. Schuman et al., 2022
 * "Brain-inspired methods for achieving robust computation in heterogeneous mixed-signal neuromorphic processing systems" - Dmitrii Zendrikov, Sergio Solinas, and Giacomo Indiveri, 2023
 * "Breaking the von Neumann bottleneck: architecture-level processing-in-memory technology" - S. Xu X. Zou and X. Chen, 2021
 * "Memristor-based spiking neural networks: cooperative development of neural network architecture/algorithms and memristors" - Huihui Peng, Lin Gan, and Xin Guo, 2024
