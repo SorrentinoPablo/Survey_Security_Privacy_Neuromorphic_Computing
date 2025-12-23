@@ -1,9 +1,7 @@
-# Survey Security Privacy Neuromorphic Computing
+# Survey on Security and Privacy Neuromorphic Computing
 This repository extends from our recent work "Emerging Threats and Countermeasures in Neuromorphic Systems: A Survey". By designing and analyzing Memristor Devices for Neuromorphic Computing, Spiking Neural Networks (SNNs), Physically Unclonable Functions (PUFs), True Random Number Generators (TRNGs), we are investigating the relationship between In Memory Computing Systems and their hardware and software security.
 
-
 > #### **Emerging Threats and Countermeasures in Neuromorphic Systems: A Survey**  
-> *(Paper link will be added upon publication / arXiv release)*
 > 
 >Neuromorphic computing mimics brain-inspired mechanisms through spiking neurons and energy-efficient processing, offering a pathway to efficient in-memory computing (IMC). However, these advancements raise critical security and privacy concerns. As the adoption of bio-inspired architectures and memristive devices increases, so does the urgency to assess the vulnerability of these emerging technologies to hardware and software attacks. Emerging architectures introduce new attack surfaces, particularly due to asynchronous, event-driven processing and stochastic device behavior.
 > 
@@ -11,8 +9,7 @@ This repository extends from our recent work "Emerging Threats and Countermeasur
 > 
 > By addressing attack methodologies and countermeasure strategies jointly, this survey maps the current threat landscape and provides a foundation for developing secure and trustworthy neuromorphic architectures.
 
-Mantained by [**Pablo Sorrentino**](https://github.com/SorrentinoPablo), member of the Security and Privacy Research Group from the [University of Groningen (RUG)](https://www.rug.nl/),  
-supervised by [**Tamalika Banerjee**](https://research.rug.nl/en/persons/tamalika-banerjee/) and [**Fatih Turkmen**](https://www.cs.rug.nl/~turkmen/). 
+Mantained by [**Pablo Sorrentino**](https://github.com/SorrentinoPablo), member of the Security and Privacy Research Group from the [University of Groningen (RUG)](https://www.rug.nl/), supervised by [**Tamalika Banerjee**](https://research.rug.nl/en/persons/tamalika-banerjee/) and [**Fatih Turkmen**](https://www.cs.rug.nl/~turkmen/). 
 
 ---
 ## Citation
@@ -53,7 +50,6 @@ For any questions or support, please reach out through: p.f.a.sorrentino@rug.nl
 - [Hardware Vulnerabilities and Countermeasures](#Hardware-Vulnerabilities-and-Countermeasures) 
 - [Software Attacks and Defensive Strategies](#Software-Attacks-and-Defensive-Strategies)
 - [Emeging Security Applications](#Emeging-Security-Applications)
-- [Collaboration and Contribution](#Collaboration-and-Contribution)
 
 ## Introduction
 
@@ -110,7 +106,7 @@ For any questions or support, please reach out through: p.f.a.sorrentino@rug.nl
 
 </details>
 
-## Hardware Vulnerabilities and Countermeasures [[Back to Top](#survey-security-privacy-neuromorphic-computing)]
+## Hardware Vulnerabilities and Countermeasures [[Back to Top](#survey-on-security-and-privacy-neuromorphic-computing)]
 
 | Year | Title | Authors | Type | Target / Leakage | Venue | Details |
 |------|-------|---------|------|------------------|-------|---------|
@@ -146,7 +142,7 @@ For any questions or support, please reach out through: p.f.a.sorrentino@rug.nl
 | 2019 | Exploiting the Switching Dynamics of HfO₂-Based ReRAM Devices for Reliable Analog Memristive Behavior | F. Cüppers et al. | Side-Channel | ReRAM devices / switching dynamics | IEEE TED | [Link]()<br>[Talk]()<br>[Code]() |
 | 2017 | Correlation Power Analysis Attack Against STT-MRAM Based Cryptosystems | Abhishek Chakraborty et al. | Side-Channel | STT-MRAM cryptosystems / power leakage | IEEE TCAS-I | [Link]()<br>[Talk]()<br>[Code]() |
 
-## Software Attacks and Defensive Strategies
+## Software Attacks and Defensive Strategies [[Back to Top](#survey-on-security-and-privacy-neuromorphic-computing)]
 
 | Year | Title | Authors | Type | Target / Leakage | Venue | Details |
 |------|-------|---------|------|------------------|-------|---------|
@@ -178,7 +174,7 @@ For any questions or support, please reach out through: p.f.a.sorrentino@rug.nl
 | 2015 | Robustness of Spiking Deep Belief Networks to Noise and Reduced Bit Precision of Neuro-Inspired Hardware Platforms | Evangelos Stromatias et al. | Adversarial | Quantization & noise robustness | Neural Computation | [Link]()<br>[Talk]()<br>[Code]() |
 | 2015 | Are Neuromorphic Architectures Inherently Privacy-Preserving? An Exploratory Study | Ayana Moshruba | Inference | Data privacy / information leakage | arXiv | [Link]()<br>[Talk]()<br>[Code]() |
 
-## Emeging Security Applications
+## Emeging Security Applications [[Back to Top](#survey-on-security-and-privacy-neuromorphic-computing)]
 
 | Year | Title | Authors | Venue | Details |
 |------|-------|---------|-------|---------|
