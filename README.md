@@ -36,7 +36,7 @@ If you find this repository useful for your research, please cite our work:
 }
 ```
 ---
-Our goal is to offer a living resource for researchers and practitioners, reflecting the latest developments and evaluations in the field. 
+Our goal is to offer a living resource for researchers and practitioners, reflecting the latest developments and evaluations in the field. Please
 - Star this repository to show support
 - Create a PR if you notice missing papers in this collection of academic papers
 - Share with the research community
@@ -44,9 +44,10 @@ Our goal is to offer a living resource for researchers and practitioners, reflec
 For any questions or support, please reach out through: p.f.a.sorrentino@rug.nl
 
 ## Contents / Key Topics
-- [Neuromorphic Computing](#Neuromorphic-Computing)
-- [Spiking Neural Networks](#Spiking-Neural-Networks)
-- [Types of Threads](#Types-of-Threads)
+- [Introduction](#Introduction)
+  - [Neuromorphic Computing](#Neuromorphic-Computing)
+  - [Spiking Neural Networks](#Spiking-Neural-Networks)
+  - [Types of Threads](#Types-of-Threads)
 - [Hardware Vulnerabilities and Countermeasures](#Hardware-Vulnerabilities-and-Countermeasures) 
 - [Software Attacks and Defensive Strategies](#Software-Attacks-and-Defensive-Strategies)
 - [Emeging Security Applications](#Emeging-Security-Applications)
