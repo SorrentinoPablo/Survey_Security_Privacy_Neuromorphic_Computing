@@ -45,8 +45,8 @@ For any questions or support, please reach out through: p.f.a.sorrentino@rug.nl
 
 ## Contents / Key Topics
 - [Introduction](#Introduction)
-  - [Neuromorphic Computing](#Neuromorphic-Computing-and)
-  - [Spiking Neural Networks](#Simulation-of)
+  - [Neuromorphic Computing](#neuromorphic-computing-and-memristors)
+  - [Spiking Neural Networks](#simulation-of)
   - [Types of Threads](#On-the-importance)
 - [Hardware Vulnerabilities and Countermeasures](#IMCE) 
 - [Software Attacks and Defensive Strategies](#Within-Spiking-Neural)
@@ -62,6 +62,7 @@ For any questions or support, please reach out through: p.f.a.sorrentino@rug.nl
 | Year | Title | Authors | Venue | Details |
 |------|-------|---------|-------|---------|
 | 2013 | Reverse Engineering the Cognitive Brain | Gert Cauwenberghs | Proceedings of the national academy of sciences | [Link](https://www.pnas.org/doi/abs/10.1073/pnas.1313114110)<br>[Talk](https://www.youtube.com/watch?v=5Akgc1D26Ps)<br> |
+| 2014 | Nengo: A Python Tool for Building Large-Scale Functional Brain Models | Trevor Bekolay et al. | Frontiers in Neuroinformatics | [Link]()<br>[Talk]()<br>[Code]() |
 | 2015 | TrueNorth: Design and Tool Flow of a 65 mW 1 Million Neuron Programmable Neurosynaptic Chip | Filipp Akopyan et al. | IEEE TCAD | [Link](https://ieeexplore.ieee.org/abstract/document/7229264)<br> <br> |
 | 2017 | A Survey of Neuromorphic Computing and Neural Networks in Hardware | Catherine D. Schuman et al. | arXiv | [Link](https://arxiv.org/abs/1705.06963)<br>[Talk](https://www.youtube.com/watch?v=PWOr1_85zeg&t=455s)<br> |
 | 2020 | Hardware and Software Optimizations for Accelerating Deep Neural Networks: Survey of Current Trends, Challenges, and the Road Ahead | Maurizio Capra et al. | IEEE Access | [Link](https://ieeexplore.ieee.org/abstract/document/9269334)<br> <br> |
@@ -69,7 +70,7 @@ For any questions or support, please reach out through: p.f.a.sorrentino@rug.nl
 | 2021 | Breaking the von Neumann Bottleneck: Architecture-Level Processing-in-Memory Technology | S. Xu, X. Zou, X. Chen | Science China Information Sciences | [Link](https://link.springer.com/article/10.1007/s11432-020-3227-1)<br> <br> |
 | 2022 | Brain-Inspired Computing Needs a Master Plan | A. Mehonic, A. J. Kenyon | Nature Electronics | [Link](https://www.nature.com/articles/s41586-021-04362-w)<br> <br> |
 | 2022 | Opportunities for Neuromorphic Computing Algorithms and Applications | Catherine D. Schuman et al. | Nature Computational Science | [Link](https://www.nature.com/articles/s43588-021-00184-y)<br>[Talk](https://www.youtube.com/watch?v=y1LCLOKFP-g)<br> |
-| 2023 | Toward a Formal Theory for Computing Machines Made Out of Whatever Physics Offers | Herbert Jaeger, Beatriz Noheda, Wilfred G. van der Wiel | Nature Reviews Physics | [Link](https://www.nature.com/articles/s41467-023-40533-1)<br>[Talk](https://www.youtube.com/watch?v=b0KelOxNcoc&t=2006s)<br>[Code]() |
+| 2023 | Toward a Formal Theory for Computing Machines Made Out of Whatever Physics Offers | Herbert Jaeger, Beatriz Noheda, Wilfred G. van der Wiel | Nature Reviews Physics | [Link](https://www.nature.com/articles/s41467-023-40533-1)<br>[Talk](https://www.youtube.com/watch?v=b0KelOxNcoc&t=2006s)<br> |
 | 2023 | System Model of Neuromorphic Sequence Learning on a Memristive Crossbar Array | Sebastian Siegel et al. | IEEE TNNLS | [Link](https://iopscience.iop.org/article/10.1088/2634-4386/acca45/meta)<br>[Talk](https://www.youtube.com/watch?v=DgfC5RRcops)<br> |
 | 2023 | Brain-Inspired Methods for Achieving Robust Computation in Heterogeneous Mixed-Signal Neuromorphic Processing Systems | Dmitrii Zendrikov, Sergio Solinas, Giacomo Indiveri | Neuromorphic Computing and Engineering | [Link](https://iopscience.iop.org/article/10.1088/2634-4386/ace64c/meta)<br>[Talk](https://www.youtube.com/watch?v=Ag4kuAE0Sks&pp=ygUeRG1pdHJpaSBaZW5kcmlrb3YgbmV1cm9tb3JwaGlj)<br> |
 | 2023 | Memristive Memory Enhancement by Device Miniaturization for Neuromorphic Computing | Anouk S. Goossens et al. | Advanced Electronic Materials | [Link](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.202201111)<br>[Talk]()<br> |
@@ -82,28 +83,26 @@ For any questions or support, please reach out through: p.f.a.sorrentino@rug.nl
 ## *Spiking Neural Networks*
 | Year | Title | Authors | Venue | Details |
 |------|-------|---------|-------|---------|
-| 2011 | Simulation of a Memristor-Based Spiking Neural Network Immune to Device Variations | Damien Querlioz, Olivier Bichler, Christian Gamrat | IEEE Transactions on Circuits and Systems I | [Link]()<br>[Talk]()<br>[Code]() |
-| 2014 | Nengo: A Python Tool for Building Large-Scale Functional Brain Models | Trevor Bekolay et al. | Frontiers in Neuroinformatics | [Link]()<br>[Talk]()<br>[Code]() |
-| 2015 | Memory and Information Processing in Neuromorphic Systems | Giacomo Indiveri, Shih-Chii Liu | Proceedings of the IEEE | [Link]()<br>[Talk]()<br>[Code]() |
-| 2015 | Spiking Deep Networks with LIF Neurons | Eric Hunsberger, Chris Eliasmith | arXiv | [Link]()<br>[Talk]()<br>[Code]() |
-| 2018 | Programming Spiking Neural Networks on Intel’s Loihi | Min Lin, Qiang Chen, Shuicheng Yan | IEEE Computer Architecture Letters | [Link]()<br>[Talk]()<br>[Code]() |
-| 2022 | Spiking Neural Networks Based on Two-Dimensional Materials | Juan B. Roldán | Materials Today Physics | [Link]()<br>[Talk]()<br>[Code]() |
-| 2023 | Exploring Neuromorphic Computing Based on Spiking Neural Networks: Algorithms to Hardware | Nitin Rathi et al. | IEEE Access | [Link]()<br>[Talk]()<br>[Code]() |
-| 2023 | SpikingJelly: An Open-Source Machine Learning Infrastructure Platform for Spike-Based Intelligence | Wei Fang et al. | Science China Information Sciences | [Link]()<br>[Talk]()<br>[Code]() |
+| 2011 | Simulation of a Memristor-Based Spiking Neural Network Immune to Device Variations | Damien Querlioz, Olivier Bichler, Christian Gamrat | IEEE Transactions on Circuits and Systems I | [Link](https://ieeexplore.ieee.org/abstract/document/6033439)<br> <br> |
+| 2015 | Memory and Information Processing in Neuromorphic Systems | Giacomo Indiveri, Shih-Chii Liu | Proceedings of the IEEE | [Link](https://ieeexplore.ieee.org/abstract/document/7159144)<br> <br> |
+| 2015 | Spiking Deep Networks with LIF Neurons | Eric Hunsberger, Chris Eliasmith | arXiv | [Link](https://arxiv.org/abs/1510.08829)<br>[Talk](https://www.youtube.com/watch?v=PeW-TN3P1hk)<br> |
+| 2018 | Programming Spiking Neural Networks on Intel’s Loihi | Lin, C. K., Wild, A., Chinya, G. N., Cao, Y., Davies, M., Lavery, D. M., and Wang, H. | IEEE Computer | [Link](https://ieeexplore-ieee-org.proxy-ub.rug.nl/abstract/document/8303802)<br> <br> |
+| 2022 | Spiking Neural Networks Based on Two-Dimensional Materials | Juan B. Roldán | Materials Today Physics | [Link](https://www.nature.com/articles/s41699-022-00341-5)<br> <br> |
+| 2023 | Exploring Neuromorphic Computing Based on Spiking Neural Networks: Algorithms to Hardware | Nitin Rathi et al. | ACM Computing Surveys | [Link](https://dl.acm.org/doi/full/10.1145/3571155)<br>[Talk](https://www.youtube.com/watch?v=cxhmvWVjsdc)<br> |
+| 2023 | SpikingJelly: An Open-Source Machine Learning Infrastructure Platform for Spike-Based Intelligence | Wei Fang et al. | Science China Information Sciences | [Link](https://www.science.org/doi/full/10.1126/sciadv.adi1480)<br>[Talk](https://www.youtube.com/watch?v=n0x6LJ-F2sI&t=424s)<br> |
 
 ## *Types of Threads*
 | Year | Title | Authors | Venue | Details |
 |------|-------|---------|-------|---------|
-| 1997 | On the Importance of Checking Cryptographic Protocols for Faults | Dan Boneh, Richard A. DeMillo, Richard J. Lipton | EUROCRYPT | [Link]()<br>[Talk]()<br>[Code]() |
-| 2001 | Electromagnetic Analysis: Concrete Results | Karine Gandolfi, Christophe Mourtel, Francis Olivier | CHES | [Link]()<br>[Talk]()<br>[Code]() |
-| 2003 | The EM Side-Channel(s) | Dakshi Agrawal et al. | CHES | [Link]()<br>[Talk]()<br>[Code]() |
-| 2003 | Private Circuits: Securing Hardware Against Probing Attacks | Yuval Ishai, Amit Sahai, David Wagner | CRYPTO | [Link]()<br>[Talk]()<br>[Code]() |
-| 2004 | Correlation Power Analysis with a Leakage Model | Eric Brier, Christophe Clavier, Francis Olivier | CHES | [Link]()<br>[Talk]()<br>[Code]() |
-| 2006 | Threshold Implementations Against Side-Channel Attacks and Glitches | Svetla Nikova, Christian Rechberger, Vincent Rijmen | CHES | [Link]()<br>[Talk]()<br>[Code]() |
-| 2019 | Spectre Attacks: Exploiting Speculative Execution | Paul Kocher et al. | IEEE Symposium on Security and Privacy | [Link]()<br>[Talk]()<br>[Code]() |
-| 2020 | Meltdown: Reading Kernel Memory from User Space | Moritz Lipp et al. | USENIX Security Symposium | [Link]()<br>[Talk]()<br>[Code]() |
-| 2021 | Understanding Security Threats in Emerging Neuromorphic Computing Architecture | Chidhambaranathan Rajamanikkam et al. | IEEE Computer Society | [Link]()<br>[Talk]()<br>[Code]() |
-| 2023 | SoK: Deep Learning-Based Physical Side-Channel Analysis | Stjepan Picek et al. | IEEE Transactions on Information Forensics and Security | [Link]()<br>[Talk]()<br>[Code]() |
+| 1997 | On the Importance of Checking Cryptographic Protocols for Faults | Dan Boneh, Richard A. DeMillo, Richard J. Lipton | EUROCRYPT | [Link](https://link.springer.com/chapter/10.1007/3-540-69053-0_4)<br>[Talk](https://www.youtube.com/watch?v=940zih5bee4)<br> |
+| 2001 | Electromagnetic Analysis: Concrete Results | Karine Gandolfi, Christophe Mourtel, Francis Olivier | CHES | [Link](https://link.springer.com/chapter/10.1007/3-540-44709-1_21)<br> <br> |
+| 2003 | The EM Side-Channel(s) | Dakshi Agrawal et al. | CHES | [Link](https://link.springer.com/chapter/10.1007/3-540-36400-5_4)<br> <br> |
+| 2003 | Private Circuits: Securing Hardware Against Probing Attacks | Yuval Ishai, Amit Sahai, David Wagner | CRYPTO | [Link](https://link.springer.com/chapter/10.1007/978-3-540-45146-4_27)<br> <br> |
+| 2004 | Correlation Power Analysis with a Leakage Model | Eric Brier, Christophe Clavier, Francis Olivier | CHES | [Link](https://link.springer.com/chapter/10.1007/978-3-540-28632-5_2)<br> <br> |
+| 2006 | Threshold Implementations Against Side-Channel Attacks and Glitches | Svetla Nikova, Christian Rechberger, Vincent Rijmen | CHES | [Link](https://link.springer.com/chapter/10.1007/11935308_38)<br>[Talk](https://www.youtube.com/watch?v=u8kakBA7mkc)<br> |
+| 2019 | Spectre Attacks: Exploiting Speculative Execution | Paul Kocher et al. | Communications of the ACM | [Link](https://dl.acm.org/doi/abs/10.1145/3399742)<br>[Talk](https://www.youtube.com/watch?v=zOvBHxMjNls&pp=ygUxU3BlY3RyZSBhdHRhY2tzOiBleHBsb2l0aW5nIHNwZWN1bGF0aXZlIGV4ZWN1dGlvbg%3D%3D)<br> |
+| 2020 | Meltdown: Reading Kernel Memory from User Space | Moritz Lipp et al. | Communications of the ACM | [Link](https://dl.acm.org/doi/fullHtml/10.1145/3357033)<br>[Talk](https://www.youtube.com/watch?v=WgAshgc9u6c&t=1075s)<br> |
+| 2023 | SoK: Deep Learning-Based Physical Side-Channel Analysis | Stjepan Picek et al. | ACM Computing Surveys | [Link](https://dl.acm.org/doi/full/10.1145/3569577)<br>[Talk](https://www.youtube.com/watch?v=IFbTPxEZFCs)<br> |
 
 </details>
 
@@ -124,6 +123,7 @@ For any questions or support, please reach out through: p.f.a.sorrentino@rug.nl
 | 2023 | Mercury: An Automated Remote Side-Channel Attack to NVIDIA Deep Learning Accelerator | Xiaobei Yan et al. | Side-Channel | GPU accelerator / timing & power leakage | IEEE S&P | [Link]()<br>[Talk]()<br>[Code]() |
 | 2023 | Hardware Trojans in eNVM Neuromorphic Devices | Lingxi Wu et al. | Hardware Trojan | eNVM neuromorphic devices / malicious circuitry | IEEE TETC | [Link]()<br>[Talk]()<br>[Code]() |
 | 2023 | Side-Channel Attack Analysis on In-Memory Computing Architectures | Ziyu Wang et al. | Side-Channel | IMC architectures / power & timing leakage | IEEE TCAS-I | [Link]()<br>[Talk]()<br>[Code]() |
+| 2021 | Understanding Security Threats in Emerging Neuromorphic Computing Architecture | Chidhambaranathan Rajamanikkam et al. | Side-Channel | Neuromorphic architectures / power leakage | Springer Journal of Hardware and Systems Security | [Link]()<br>[Talk]()<br>[Code]() |
 | 2023 | AI Attacks AI: Recovering Neural Network Architecture from NVDLA Using AI-Assisted Side-Channel Attack | Naina Gupta et al. | Side-Channel | NVDLA accelerator / power & EM leakage | IEEE TCAD | [Link]()<br>[Talk]()<br>[Code]() |
 | 2023 | Understanding and Characterizing Side Channels Exploiting Phase-Change Memories | Md Hafizul Islam Chowdhury et al. | Side-Channel | PCM devices / resistance & power leakage | IEEE Trans. on Computers | [Link]()<br>[Talk]()<br>[Code]() |
 | 2022 | DeepSteal: Advanced Model Extractions Leveraging Efficient Weight Stealing in Memories | Adnan Siraj Rakin et al. | Side-Channel | On-chip memories / access-pattern leakage | IEEE TCAD | [Link]()<br>[Talk]()<br>[Code]() |
