@@ -45,12 +45,12 @@ For any questions or support, please reach out through: p.f.a.sorrentino@rug.nl
 
 ## Contents / Key Topics
 - [Introduction](#Introduction)
-  - [Neuromorphic Computing](#Neuromorphic-Computing)
-  - [Spiking Neural Networks](#Spiking-Neural-Networks)
-  - [Types of Threads](#Types-of-Threads)
-- [Hardware Vulnerabilities and Countermeasures](#Hardware-Vulnerabilities-and-Countermeasures) 
-- [Software Attacks and Defensive Strategies](#Software-Attacks-and-Defensive-Strategies)
-- [Emeging Security Applications](#Emeging-Security-Applications)
+  - [Neuromorphic Computing](#Neuromorphic-Computing-and)
+  - [Spiking Neural Networks](#Simulation-of)
+  - [Types of Threads](#On-the-importance)
+- [Hardware Vulnerabilities and Countermeasures](#IMCE) 
+- [Software Attacks and Defensive Strategies](#Within-Spiking-Neural)
+- [Emeging Security Applications](#Defense-Method-Against)
 
 ## Introduction
 
@@ -61,23 +61,23 @@ For any questions or support, please reach out through: p.f.a.sorrentino@rug.nl
 
 | Year | Title | Authors | Venue | Details |
 |------|-------|---------|-------|---------|
-| 2013 | Reverse Engineering the Cognitive Brain | Gert Cauwenberghs | Proceedings of the IEEE | [Link]()<br>[Talk]()<br>[Code]() |
-| 2015 | TrueNorth: Design and Tool Flow of a 65 mW 1 Million Neuron Programmable Neurosynaptic Chip | Filipp Akopyan et al. | IEEE TCAD | [Link]()<br>[Talk]()<br>[Code]() |
-| 2017 | A Survey of Neuromorphic Computing and Neural Networks in Hardware | Catherine D. Schuman et al. | arXiv | [Link]()<br>[Talk]()<br>[Code]() |
-| 2020 | Hardware and Software Optimizations for Accelerating Deep Neural Networks: Survey of Current Trends, Challenges, and the Road Ahead | Maurizio Capra et al. | IEEE Access | [Link]()<br>[Talk]()<br>[Code]() |
-| 2021 | Neuromorphic Electronics Based on Copying and Pasting the Brain | Donhee Ham et al. | Nature Electronics | [Link]()<br>[Talk]()<br>[Code]() |
-| 2021 | Breaking the von Neumann Bottleneck: Architecture-Level Processing-in-Memory Technology | S. Xu, X. Zou, X. Chen | Science China Information Sciences | [Link]()<br>[Talk]()<br>[Code]() |
-| 2022 | Brain-Inspired Computing Needs a Master Plan | A. Mehonic, A. J. Kenyon | Nature Electronics | [Link]()<br>[Talk]()<br>[Code]() |
-| 2022 | Opportunities for Neuromorphic Computing Algorithms and Applications | Catherine D. Schuman et al. | Nature Computational Science | [Link]()<br>[Talk]()<br>[Code]() |
-| 2023 | Toward a Formal Theory for Computing Machines Made Out of Whatever Physics Offers | Herbert Jaeger, Beatriz Noheda, Wilfred G. van der Wiel | Nature Reviews Physics | [Link]()<br>[Talk]()<br>[Code]() |
-| 2023 | System Model of Neuromorphic Sequence Learning on a Memristive Crossbar Array | Sebastian Siegel et al. | IEEE TNNLS | [Link]()<br>[Talk]()<br>[Code]() |
-| 2023 | Brain-Inspired Methods for Achieving Robust Computation in Heterogeneous Mixed-Signal Neuromorphic Processing Systems | Dmitrii Zendrikov, Sergio Solinas, Giacomo Indiveri | Nature Electronics | [Link]()<br>[Talk]()<br>[Code]() |
-| 2023 | Memristive Memory Enhancement by Device Miniaturization for Neuromorphic Computing | Anouk S. Goossens et al. | Advanced Electronic Materials | [Link]()<br>[Talk]()<br>[Code]() |
-| 2023 | Tunability of Voltage Pulse–Mediated Memristive Functionality by Varying Doping Concentration in SrTiO₃ | A. S. Goossens, Tamalika Banerjee | Journal of Applied Physics | [Link]()<br>[Talk]()<br>[Code]() |
-| 2023 | Electrochemical-Memristor-Based Artificial Neurons and Synapses: Fundamentals, Applications, and Challenges | Shaochuan Chen et al. | Advanced Functional Materials | [Link]()<br>[Talk]()<br>[Code]() |
-| 2024 | Memristors on the Edge of Chaos | Leon O. Chua | IEEE TCAS-I | [Link]()<br>[Talk]()<br>[Code]() |
-| 2024 | Hardware Implementation of Memristor-Based Artificial Neural Networks | Fernando Aguirre et al. | IEEE Access | [Link]()<br>[Talk]()<br>[Code]() |
-| 2024 | Memristor-Based Spiking Neural Networks: Cooperative Development of Neural Network Architecture/Algorithms and Memristors | Huihui Peng, Lin Gan, Xin Guo | Advanced Intelligent Systems | [Link]()<br>[Talk]()<br>[Code]() |
+| 2013 | Reverse Engineering the Cognitive Brain | Gert Cauwenberghs | Proceedings of the national academy of sciences | [Link](https://www.pnas.org/doi/abs/10.1073/pnas.1313114110)<br>[Talk](https://www.youtube.com/watch?v=5Akgc1D26Ps)<br> |
+| 2015 | TrueNorth: Design and Tool Flow of a 65 mW 1 Million Neuron Programmable Neurosynaptic Chip | Filipp Akopyan et al. | IEEE TCAD | [Link](https://ieeexplore.ieee.org/abstract/document/7229264)<br> <br> |
+| 2017 | A Survey of Neuromorphic Computing and Neural Networks in Hardware | Catherine D. Schuman et al. | arXiv | [Link](https://arxiv.org/abs/1705.06963)<br>[Talk](https://www.youtube.com/watch?v=PWOr1_85zeg&t=455s)<br> |
+| 2020 | Hardware and Software Optimizations for Accelerating Deep Neural Networks: Survey of Current Trends, Challenges, and the Road Ahead | Maurizio Capra et al. | IEEE Access | [Link](https://ieeexplore.ieee.org/abstract/document/9269334)<br> <br> |
+| 2021 | Neuromorphic Electronics Based on Copying and Pasting the Brain | Donhee Ham et al. | Nature Electronics | [Link](https://www.nature.com/articles/s41928-021-00646-1)<br>[Talk]()<br>[Code]() |
+| 2021 | Breaking the von Neumann Bottleneck: Architecture-Level Processing-in-Memory Technology | S. Xu, X. Zou, X. Chen | Science China Information Sciences | [Link](https://link.springer.com/article/10.1007/s11432-020-3227-1)<br> <br> |
+| 2022 | Brain-Inspired Computing Needs a Master Plan | A. Mehonic, A. J. Kenyon | Nature Electronics | [Link](https://www.nature.com/articles/s41586-021-04362-w)<br> <br> |
+| 2022 | Opportunities for Neuromorphic Computing Algorithms and Applications | Catherine D. Schuman et al. | Nature Computational Science | [Link](https://www.nature.com/articles/s43588-021-00184-y)<br>[Talk](https://www.youtube.com/watch?v=y1LCLOKFP-g)<br> |
+| 2023 | Toward a Formal Theory for Computing Machines Made Out of Whatever Physics Offers | Herbert Jaeger, Beatriz Noheda, Wilfred G. van der Wiel | Nature Reviews Physics | [Link](https://www.nature.com/articles/s41467-023-40533-1)<br>[Talk](https://www.youtube.com/watch?v=b0KelOxNcoc&t=2006s)<br>[Code]() |
+| 2023 | System Model of Neuromorphic Sequence Learning on a Memristive Crossbar Array | Sebastian Siegel et al. | IEEE TNNLS | [Link](https://iopscience.iop.org/article/10.1088/2634-4386/acca45/meta)<br>[Talk](https://www.youtube.com/watch?v=DgfC5RRcops)<br> |
+| 2023 | Brain-Inspired Methods for Achieving Robust Computation in Heterogeneous Mixed-Signal Neuromorphic Processing Systems | Dmitrii Zendrikov, Sergio Solinas, Giacomo Indiveri | Neuromorphic Computing and Engineering | [Link](https://iopscience.iop.org/article/10.1088/2634-4386/ace64c/meta)<br>[Talk](https://www.youtube.com/watch?v=Ag4kuAE0Sks&pp=ygUeRG1pdHJpaSBaZW5kcmlrb3YgbmV1cm9tb3JwaGlj)<br> |
+| 2023 | Memristive Memory Enhancement by Device Miniaturization for Neuromorphic Computing | Anouk S. Goossens et al. | Advanced Electronic Materials | [Link](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.202201111)<br>[Talk]()<br> |
+| 2023 | Tunability of Voltage Pulse–Mediated Memristive Functionality by Varying Doping Concentration in SrTiO₃ | A. S. Goossens, Tamalika Banerjee | Journal of Applied Physics | [Link](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.202201111)<br>[Talk](https://www.youtube.com/watch?v=uZN5CK24jbE)<br> |
+| 2023 | Electrochemical-Memristor-Based Artificial Neurons and Synapses: Fundamentals, Applications, and Challenges | Shaochuan Chen et al. | Advanced Functional Materials | [Link](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adma.202301924)<br> <br> |
+| 2024 | Memristors on the Edge of Chaos | Leon O. Chua | Nature Reviews Electrical Engineering | [Link](https://www.nature.com/articles/s44287-024-00082-1)<br>[Talk](https://www.youtube.com/watch?v=B9Z2Ktacd4s&list=PLWIjtByUJvcvT3IgfDyej4yEpLgyAn2L9)<br> |
+| 2024 | Hardware Implementation of Memristor-Based Artificial Neural Networks | Fernando Aguirre et al. | IEEE Access | [Link](https://www.nature.com/articles/s41467-024-45670-9)<br>[Talk](https://www.youtube.com/watch?v=FvXadN9uyak)<br> |
+| 2024 | Memristor-Based Spiking Neural Networks: Cooperative Development of Neural Network Architecture/Algorithms and Memristors | Huihui Peng, Lin Gan, Xin Guo | Advanced Intelligent Systems | [Link](https://www.sciencedirect.com/science/article/pii/S270947232400011X)<br> <br> |
 
 ## *Spiking Neural Networks*
 | Year | Title | Authors | Venue | Details |
