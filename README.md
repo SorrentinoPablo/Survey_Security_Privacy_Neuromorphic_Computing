@@ -48,9 +48,9 @@ For any questions or support, please reach out through: p.f.a.sorrentino@rug.nl
   - [Neuromorphic Computing](#neuromorphic-computing-and-memristors)
   - [Spiking Neural Networks](#simulation-of)
   - [Types of Threads](#On-the-importance)
-- [Hardware Vulnerabilities and Countermeasures](#IMCE) 
-- [Software Attacks and Defensive Strategies](#Within-Spiking-Neural)
-- [Emeging Security Applications](#Defense-Method-Against)
+- [Hardware Vulnerabilities and Countermeasures](#Hardware-Vulnerabilities-and-Countermeasures) 
+- [Software Attacks and Defensive Strategies](#Software-Attacks-and-Defensive-Strategies)
+- [Emeging Security Applications](#Emeging-Security-Applications)
 
 ## Introduction
 
@@ -178,9 +178,9 @@ For any questions or support, please reach out through: p.f.a.sorrentino@rug.nl
 
 | Year | Title | Authors | Venue | Details |
 |------|-------|---------|-------|---------|
-| 2024 | Defense Method Against Adversarial Example Attacks Using Thermal Noise of a CMOS Image Sensor | Yuki Rogi et al. | Secure Sensing | Sensor noise / adversarial robustness | IEEE Sensors Journal | [Link]()<br>[Talk]()<br>[Code]() |
-| 2024 | Efficient Implementation of Mahalanobis Distance on Ferroelectric FinFET Crossbar for Outlier Detection | Musaib Rafiq, Yogesh Singh Chauhan, Shubham Sahay | IMC + Crypto | Crossbar computing / anomaly detection | IEEE TCAS-I | [Link]()<br>[Talk]()<br>[Code]() |
-| 2024 | A Robust Deep Learning Attack-Immune MRAM-Based Physical Unclonable Function | Mohammad Javad Adel et al. | PUF | MRAM PUF / ML-attack resilience | IEEE Transactions on Magnetics | [Link]()<br>[Talk]()<br>[Code]() |
+| 2024 | Defense Method Against Adversarial Example Attacks Using Thermal Noise of a CMOS Image Sensor | Yuki Rogi et al. | Secure Sensing | Sensor noise / adversarial robustness | IEEE Sensors Journal | [Link](https://ieeexplore.ieee.org/abstract/document/10785201)<br>[Talk](https://www.youtube.com/watch?v=QzTeXWJ9jdA)<br>[Code]() |
+| 2024 | Efficient Implementation of Mahalanobis Distance on Ferroelectric FinFET Crossbar for Outlier Detection | Musaib Rafiq, Yogesh Singh Chauhan, Shubham Sahay | IMC + Crypto | Crossbar computing / anomaly detection | IEEE Journal of the Electron Devices Society | [Link](https://ieeexplore.ieee.org/abstract/document/10563982)<br>[Talk]()<br>[Code]() |
+| 2024 | A Robust Deep Learning Attack-Immune MRAM-Based Physical Unclonable Function | Mohammad Javad Adel et al. | PUF | MRAM PUF / ML-attack resilience | IEEE Transactions on Magnetics | [Link](https://www.nature.com/articles/s41598-024-71730-7)<br> <br> |
 | 2024 | Resilience Evaluation of Memristor-Based PUF Against Machine Learning Attacks | Hebatallah M. Ibrahim, Heorhii Skovorodnikov, Hoda Alkhzaimi | PUF | Memristive PUF / ML robustness | IEEE Access | [Link]()<br>[Talk]()<br>[Code]() |
 | 2024 | In Situ Cryptography in a Neuromorphic Vision Sensor Based on Light-Driven Memristors | Lingxiang Hu et al. | IMC + Crypto | Near-sensor cryptography / memristive vision | Nature Electronics | [Link]()<br>[Talk]()<br>[Code]() |
 | 2024 | Algorithmically-Enhanced Design of Spintronic-Based Tunable True Random Number Generator for Dependable Stochastic Computing | Amir Bahador, Mohammad Hossein Moaiyeri, Reza Ghaderi | TRNG | Spintronic TRNG / stochastic computing | IEEE TCAS-I | [Link]()<br>[Talk]()<br>[Code]() |
