@@ -176,8 +176,8 @@ For any questions or support, please reach out through: p.f.a.sorrentino@rug.nl
 
 ## Emeging Security Applications [[Back to Top](#survey-on-security-and-privacy-neuromorphic-computing)]
 
-| Year | Title | Authors | Venue | Details |
-|------|-------|---------|-------|---------|
+| Year | Title | Authors | Topics | Venue | Details |
+|------|-------|---------|--------|-------|---------|
 | 2024 | Defense Method Against Adversarial Example Attacks Using Thermal Noise of a CMOS Image Sensor | Yuki Rogi et al. | Sensor noise / adversarial robustness | IEEE Sensors Journal | [Link](https://ieeexplore.ieee.org/abstract/document/10785201)<br>[Talk](https://www.youtube.com/watch?v=QzTeXWJ9jdA)<br>[Code]() |
 | 2024 | Efficient Implementation of Mahalanobis Distance on Ferroelectric FinFET Crossbar for Outlier Detection | Musaib Rafiq, Yogesh Singh Chauhan, Shubham Sahay | Crossbar computing / anomaly detection | IEEE Journal of the Electron Devices Society | [Link](https://ieeexplore.ieee.org/abstract/document/10563982)<br>[Talk]()<br>[Code]() |
 | 2024 | A Robust Deep Learning Attack-Immune MRAM-Based Physical Unclonable Function | Mohammad Javad Adel et al. | MRAM PUF / ML-attack resilience | IEEE Transactions on Magnetics | [Link](https://www.nature.com/articles/s41598-024-71730-7)<br> <br> |
