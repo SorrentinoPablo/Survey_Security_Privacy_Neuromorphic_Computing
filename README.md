@@ -107,7 +107,8 @@ For any questions or support, please reach out through: p.f.a.sorrentino@rug.nl
 
 </details>
 
-## Hardware Vulnerabilities and Countermeasures [[Back to Top](#survey-on-security-and-privacy-neuromorphic-computing)]
+## Hardware Vulnerabilities and Countermeasures 
+## [[Back to Top](#survey-on-security-and-privacy-neuromorphic-computing)]
 
 | Year | Title | Authors | Type | Target / Leakage | Venue | Details |
 |------|-------|---------|------|------------------|-------|---------|
@@ -143,7 +144,8 @@ For any questions or support, please reach out through: p.f.a.sorrentino@rug.nl
 | 2019 | Exploiting the Switching Dynamics of HfO₂-Based ReRAM Devices for Reliable Analog Memristive Behavior | F. Cüppers et al. | Side-Channel | ReRAM devices / switching dynamics | APL materials | [Link](https://pubs.aip.org/aip/apm/article/7/9/091105/1023461)<br> <br> |
 | 2017 | Correlation Power Analysis Attack Against STT-MRAM Based Cryptosystems | Abhishek Chakraborty et al. | Side-Channel | STT-MRAM cryptosystems / power leakage | IACR Cryptology ePrint Archive | [Link](https://eprint.iacr.org/2017/413)<br> <br> |
 
-## Software Attacks and Defensive Strategies [[Back to Top](#survey-on-security-and-privacy-neuromorphic-computing)]
+## Software Attacks and Defensive Strategies 
+## [[Back to Top](#survey-on-security-and-privacy-neuromorphic-computing)]
 
 | Year | Title | Authors | Type | Target / Leakage | Venue | Details |
 |------|-------|---------|------|------------------|-------|---------|
