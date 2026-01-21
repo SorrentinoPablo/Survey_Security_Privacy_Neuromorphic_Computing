@@ -175,7 +175,8 @@ For any questions or support, please reach out through: p.f.a.sorrentino@rug.nl
 | 2015 | Robustness of Spiking Deep Belief Networks to Noise and Reduced Bit Precision of Neuro-Inspired Hardware Platforms | Evangelos Stromatias et al. | Adversarial | Quantization and noise robustness | Neural Computation | [Link]()<br>[Talk]()<br>[Code]() |
 | 2015 | Are Neuromorphic Architectures Inherently Privacy-Preserving? An Exploratory Study | Ayana Moshruba | Inference | Data privacy / information leakage | arXiv | [Link]()<br>[Talk]()<br>[Code]() |
 
-## Emerging Security Applications [[Back to Top](#survey-on-security-and-privacy-neuromorphic-computing)]
+## Emerging Security Applications 
+## [[Back to Top](#survey-on-security-and-privacy-neuromorphic-computing)]
 
 | Year | Title | Authors | Topics | Venue | Details |
 |------|-------|---------|--------|-------|---------|
