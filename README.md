@@ -87,6 +87,7 @@ For any questions or support, please reach out through: p.f.a.sorrentino@
 | 2018 | Programming Spiking Neural Networks on Intel’s Loihi | Lin, C. K., Wild, A., Chinya, G. N., Cao, Y., Davies, M., Lavery, D. M., and Wang, H. | IEEE Computer | [Link](https://doi.org/10.1109/MC.2018.157113521)<br> <br> |
 | 2022 | Spiking neural networks: A survey | João D Nunes, Marcelo Carvalho, Diogo Carneiro, and Jaime S Cardoso | IEEE access | [Link](https://doi.org/10.1109/ACCESS.2022.3179968)<br> <br> |
 | 2022 | Spiking Neural Networks Based on Two-Dimensional Materials | Juan B. Roldán et al. | Materials Today Physics | [Link](https://www.nature.com/articles/s41699-022-00341-5)<br> <br> |
+| 2022 | Hardware implementation of spiking neural networks: challenges and progress | Zhaofei Yu, Tong Bu, Yitong Li, and Tiejun Huang | IEEE Proceedings of the IEEE International Conference on Neuromorphic Systems | [Link](https://doi.org/10.1038/s41467-022-29795-3)<br> <br> |
 | 2023 | Exploring Neuromorphic Computing Based on Spiking Neural Networks: Algorithms to Hardware | Nitin Rathi et al. | ACM Computing Surveys (CSUR) | [Link](https://dl.acm.org/doi/full/10.1145/3571155)<br>[Talk](https://www.youtube.com/watch?v=cxhmvWVjsdc)<br> |
 | 2023 | SpikingJelly: An Open-Source Machine Learning Infrastructure Platform for Spike-Based Intelligence | Wei Fang et al. | Science China Information Sciences | [Link](https://www.science.org/doi/full/10.1126/sciadv.adi1480)<br>[Talk](https://www.youtube.com/watch?v=n0x6LJ-F2sI&t=424s)<br> |
 
@@ -228,6 +229,8 @@ https://www.usenix.org/conference/usenixsecurity24/presentation/sun-bing)<br>[Ta
 
 | Year | Title | Authors | Topics | Venue | Details |
 |------|-------|---------|--------|-------|---------|
+| 2025 | Physical unclonable in-memory computing for simultaneous protecting private data and deep learning models | Wenshuo Yue, Kai Wu, Zhiyuan Li, et al. | PUF / In-Memory Computing | Nature Communications | [Link](https://doi.org/10.1038/s41467025-56412-w)<br> <br> |
+| 2025 | Enhancing IoT security with threshold switching-based unified security primitives | Guobin Zhang, Jianhao Kan, Xuemeng Fan, Qi Luo, Jiabao Sun, Dawei Gao, and Yishu Zhang | PUF / Emerging Technologies | IOP Nanotechnology | [Link](https://doi.org/10.1088/1361-6528/adb980)<br> <br> |
 | 2025 | Transforming memristor noises into computational innovations | Chenchen Ding, Yuan Ren, Zhengwu Liu, and Ngai Wong | PUF / noise-based generators | Nature Communications Materials | [Link](https://www.nature.com/articles/s43246-025-00876-2)<br> <br> |
 | 2025 | Processing In-Memory PUF Watermark Embedding with Cellular Memristor Network | Alex James, Chithra Reghuvaran, and Leon Chua | PUF / Cellular Memristor | IEEE Transactions on Emerging Topics in Computing | [Link](https://ieeexplore.ieee.org/document/10851809)<br> <br> |
 | 2025 | Digital In-Memory Compute for Machine Learning Applications With Input and Model Security | Maitreyi Ashok, Saurav Maji, Xin Zhang, John Cohn, and Anantha P Chandrakasan | Sensor noise / adversarial robustness | IEEE Journal of Solid-State Circuits | [Link](https://ieeexplore.ieee.org/document/10876380)<br> <br> |
