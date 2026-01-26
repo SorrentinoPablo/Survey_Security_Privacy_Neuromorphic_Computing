@@ -29,7 +29,7 @@ If you find this repository useful for your research, please cite our work:
       url={https://arxiv.org/abs/2601.16589}, 
 }
 ```
-- [1] `Pablo Sorrentino, Stjepan Picek, Ihsen Alouani, Nikolaos Athanasios Anagnostopoulos, Francesco Regazzoni, Lejla Batina, Tamalika Banerjee, Fatih Turkmen. 2026. Emerging Threats and Countermeasures in Neuromorphic Systems: A Survey. arXiv:2601.16589 [cs.CR]
+- [1] `Pablo Sorrentino, Stjepan Picek, Ihsen Alouani, Nikolaos Athanasios Anagnostopoulos, Francesco Regazzoni, Lejla Batina, Tamalika Banerjee, Fatih Turkmen. 2026. Emerging Threats and Countermeasures in Neuromorphic Systems: A Survey. arXiv:2601.16589 [cs.CR]`
 ---
 Our goal is to offer a living resource for researchers and practitioners, reflecting the latest developments and evaluations in the field. Please
 - Star this repository to show support
