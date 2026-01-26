@@ -21,19 +21,14 @@ If you find this repository useful for your research, please cite our work:
 - Bibtex:
 
 ```bibtex
-@article{sorrentino2025neuromorphic,
-  title={{Emerging Threats and Countermeasures in Neuromorphic Systems: A Survey}},
-  author={Sorrentino, Pablo and
-          Picek, Stjepan and
-          Alouani, Ihsen and
-          Anagnostopoulos, Nikolaos Athanasios and
-          Regazzoni, Francesco and
-          Batina, Lejla and
-          Banerjee, Tamalika and
-          Turkmen, Fatih},
-  journal={ACM Computing Surveys},
-  year={2025},
-  note={under review}
+@misc{sorrentino2026emergingthreatscountermeasuresneuromorphic,
+      title={Emerging Threats and Countermeasures in Neuromorphic Systems: A Survey}, 
+      author={Pablo Sorrentino and Stjepan Picek and Ihsen Alouani and Nikolaos Athanasios Anagnostopoulos and Francesco Regazzoni and Lejla Batina and Tamalika Banerjee and Fatih Turkmen},
+      year={2026},
+      eprint={2601.16589},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2601.16589}, 
 }
 ```
 ---
