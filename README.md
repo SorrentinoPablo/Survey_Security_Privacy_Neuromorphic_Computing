@@ -109,8 +109,7 @@ For any questions or support, please reach out through: p.f.a.sorrentino@
 | 2021 | A Survey on the Security of PUFs | Shuqin Su, Min Zhu, Hanning Wang, Bohan Yang, and Leibo Liu | IOP Publishing | [Link](https://iopscience.iop.org/article/10.1088/1742-6596/1993/1/012031/meta)<br> <br> |
 | 2022 | Membership inference attacks from first principles | Nicholas Carlini, Steve Chien, Milad Nasr, Shuang Song, Andreas Terzis, and Florian Tramer | IEEE Symposium on security and privacy (SP) | [Link](https://ieeexplore.ieee.org/document/9833649)<br>[Talk](https://www.youtube.com/watch?v=1CNxfhMlk-A)<br> |
 | 2023 | SoK: Deep Learning-Based Physical Side-Channel Analysis | Stjepan Picek et al. | ACM Computing Surveys | [Link](https://dl.acm.org/doi/full/10.1145/3569577)<br>[Talk](https://www.youtube.com/watch?v=IFbTPxEZFCs)<br> |
-| 2024 | Neural Network Semantic Backdoor Detection and Mitigation: A Causality-Based Approach | Bing Sun, Jun Sun, Wayne Koh, and Jie Shi | USENIX Conference on Security Symposium | [Link](0.
-https://www.usenix.org/conference/usenixsecurity24/presentation/sun-bing)<br>[Talk](https://www.youtube.com/watch?v=xtoScc2JJow)<br> |
+| 2024 | Neural Network Semantic Backdoor Detection and Mitigation: A Causality-Based Approach | Bing Sun, Jun Sun, Wayne Koh, and Jie Shi | USENIX Conference on Security Symposium | [Link](0.https://www.usenix.org/conference/usenixsecurity24/presentation/sun-bing)<br>[Talk](https://www.youtube.com/watch?v=xtoScc2JJow)<br> |
 | 2024 | SoK: neural network extraction through physical side channels | Péter Horváth, Dirk Lauret, Zhuoran Liu, and Lejla Batina | USENIX Conference on Security Symposium | [Link](https://www.usenix.org/conference/usenixsecurity24/presentation/horvath)<br>[Talk](https://www.youtube.com/watch?v=i69ZN7Cotjk)<br> |
 
 </details>
