@@ -36,7 +36,7 @@ Our goal is to offer a living resource for researchers and practitioners, reflec
 - Create a PR if you notice missing papers in this collection of academic papers
 - Share with the research community
 
-For any questions or support, please reach out through: p.f.a.sorrentino@
+For any recommendations, questions or support, please reach out through: p.f.a.sorrentino@rug.nl
 
 ## Contents / Key Topics
 - [-Introduction](#Introduction)
