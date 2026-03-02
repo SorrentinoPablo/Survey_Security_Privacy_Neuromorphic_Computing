@@ -77,6 +77,7 @@ For any recommendations, questions or support, please reach out through: p.f.a.s
 | 2024 | Memristors on the Edge of Chaos | Leon O. Chua | Nature Reviews Electrical Engineering | [Link](https://www.nature.com/articles/s44287-024-00082-1)<br>[Talk](https://www.youtube.com/watch?v=B9Z2Ktacd4s&list=PLWIjtByUJvcvT3IgfDyej4yEpLgyAn2L9)<br> |
 | 2024 | Hardware Implementation of Memristor-Based Artificial Neural Networks | Fernando Aguirre et al. | Nature Communications | [Link](https://www.nature.com/articles/s41467-024-45670-9)<br>[Talk](https://www.youtube.com/watch?v=FvXadN9uyak)<br> |
 | 2024 | Memristor-Based Spiking Neural Networks: Cooperative Development of Neural Network Architecture/Algorithms and Memristors | Huihui Peng, Lin Gan, Xin Guo | Elsevier Chip | [Link](https://www.sciencedirect.com/science/article/pii/S270947232400011X)<br> <br> |
+| 2024 | Review of Memristors for In‐Memory Computing and Spiking Neural Networks | Shooshtari, M., Serrano‐Gotarredona, T., & Linares‐Barranco, B. | Advanced Intelligent Systems | [Link](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202500806)<br> <br> |
 
 ## *Spiking Neural Networks*
 | Year | Title | Authors | Venue | Details |
