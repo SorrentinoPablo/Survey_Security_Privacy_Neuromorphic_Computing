@@ -1,0 +1,74 @@
+# Foundational and Survey Papers
+
+[Back to Main README](../README.md)
+
+This section lists foundational and survey papers related to neuromorphic computing, memristors, spiking neural networks, hardware security, side-channel attacks, fault injection, PUFs, privacy attacks, and related security threats.
+
+---
+
+## Neuromorphic Computing and Memristors
+
+| Year | Title | Authors | Venue | Resources |
+|------|-------|---------|-------|-----------|
+| 2013 | Reverse Engineering the Cognitive Brain | Gert Cauwenberghs | Proceedings of the National Academy of Sciences | [Link](https://www.pnas.org/doi/abs/10.1073/pnas.1313114110)<br>[Talk](https://www.youtube.com/watch?v=5Akgc1D26Ps) |
+| 2014 | Nengo: A Python Tool for Building Large-Scale Functional Brain Models | Trevor Bekolay et al. | Frontiers in Neuroinformatics | [Link](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2013.00048/full)<br>[Talk](https://www.youtube.com/watch?v=sgu9l_bqAHM&pp=ygVFTmVuZ286IGEgUHl0aG9uIHRvb2wgZm9yIGJ1aWxkaW5nIGxhcmdlLXNjYWxlIGZ1bmN0aW9uYWwgYnJhaW4gbW9kZWxz)<br>[Code](https://github.com/nengo/nengo) |
+| 2015 | TrueNorth: Design and Tool Flow of a 65 mW 1 Million Neuron Programmable Neurosynaptic Chip | Filipp Akopyan et al. | IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems | [Link](https://ieeexplore.ieee.org/abstract/document/7229264) |
+| 2017 | A Survey of Neuromorphic Computing and Neural Networks in Hardware | Catherine D. Schuman et al. | arXiv | [Link](https://arxiv.org/abs/1705.06963)<br>[Talk](https://www.youtube.com/watch?v=PWOr1_85zeg&t=455s) |
+| 2020 | Emerging neuromorphic devices | Daniele Ielmini and Stefano Ambrogio | IOP Nanotechnology | [Link](https://iopscience.iop.org/article/10.1088/1361-6528/ab554b/meta)<br>[Talk](https://www.youtube.com/watch?v=Q1IH13HUvGE) |
+| 2020 | Hardware and Software Optimizations for Accelerating Deep Neural Networks: Survey of Current Trends, Challenges, and the Road Ahead | Maurizio Capra et al. | IEEE Access | [Link](https://ieeexplore.ieee.org/abstract/document/9269334) |
+| 2021 | Neuromorphic Electronics Based on Copying and Pasting the Brain | Donhee Ham et al. | Nature Electronics | [Link](https://www.nature.com/articles/s41928-021-00646-1) |
+| 2021 | Breaking the von Neumann Bottleneck: Architecture-Level Processing-in-Memory Technology | S. Xu, X. Zou, X. Chen | Science China Information Sciences | [Link](https://link.springer.com/article/10.1007/s11432-020-3227-1) |
+| 2022 | Brain-Inspired Computing Needs a Master Plan | A. Mehonic, A. J. Kenyon | Nature Perspectives | [Link](https://www.nature.com/articles/s41586-021-04362-w) |
+| 2022 | Opportunities for Neuromorphic Computing Algorithms and Applications | Catherine D. Schuman, Shweta R. Kulkarni, Maryam Parsa, J. Parker Mitchell, Prasanna Date, and Bill Kay | Nature Computational Science | [Link](https://www.nature.com/articles/s43588-021-00184-y)<br>[Talk](https://www.youtube.com/watch?v=y1LCLOKFP-g) |
+| 2022 | HfO2-based resistive switching memory devices for neuromorphic computing | Brivio, S., Spiga, S., and Ielmini, D | IOP Neuromorphic Computing and Engineering | [Link](https://iopscience.iop.org/article/10.1088/2634-4386/ac9012/meta) |
+| 2023 | Toward a Formal Theory for Computing Machines Made Out of Whatever Physics Offers | Herbert Jaeger, Beatriz Noheda, Wilfred G. van der Wiel | Nature Communications | [Link](https://www.nature.com/articles/s41467-023-40533-1)<br>[Talk](https://www.youtube.com/watch?v=b0KelOxNcoc&t=2006s) |
+| 2023 | Memristor-Spikelearn: A Spiking Neural Network Simulator for Studying Synaptic Plasticity under Realistic Device and Circuit Behaviors | Yuming Liu, Angel Yanguas-Gil, Sandeep Madireddy, and Yanjing Li | IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE) | [Link](https://doi.org/10.23919/DATE56975.2023.10136938)<br>[Code](https://github.com/YLab-Research/Memristor-Spikelearn) |
+| 2023 | System Model of Neuromorphic Sequence Learning on a Memristive Crossbar Array | Sebastian Siegel et al. | IOP Neuromorphic Computing and Engineering | [Link](https://iopscience.iop.org/article/10.1088/2634-4386/acca45/meta)<br>[Talk](https://www.youtube.com/watch?v=DgfC5RRcops) |
+| 2023 | Brain-Inspired Methods for Achieving Robust Computation in Heterogeneous Mixed-Signal Neuromorphic Processing Systems | Dmitrii Zendrikov, Sergio Solinas, Giacomo Indiveri | IOP Neuromorphic Computing and Engineering | [Link](https://iopscience.iop.org/article/10.1088/2634-4386/ace64c/meta)<br>[Talk](https://www.youtube.com/watch?v=Ag4kuAE0Sks&pp=ygUeRG1pdHJpaSBaZW5kcmlrb3YgbmV1cm9tb3JwaGlj) |
+| 2023 | Memristive Memory Enhancement by Device Miniaturization for Neuromorphic Computing | Anouk S. Goossens et al. | Advanced Electronic Materials | [Link](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.202201111) |
+| 2023 | Tunability of Voltage Pulse–Mediated Memristive Functionality by Varying Doping Concentration in SrTiO₃ | A. S. Goossens, Tamalika Banerjee | AIP Applied Physics Letters | [Link](https://pubs.aip.org/aip/apl/article/122/3/034101/2867067)<br>[Talk](https://www.youtube.com/watch?v=uZN5CK24jbE) |
+| 2023 | Electrochemical-Memristor-Based Artificial Neurons and Synapses: Fundamentals, Applications, and Challenges | Shaochuan Chen et al. | Advanced Functional Materials | [Link](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adma.202301924) |
+| 2024 | Memristors on the Edge of Chaos | Leon O. Chua | Nature Reviews Electrical Engineering | [Link](https://www.nature.com/articles/s44287-024-00082-1)<br>[Talk](https://www.youtube.com/watch?v=B9Z2Ktacd4s&list=PLWIjtByUJvcvT3IgfDyej4yEpLgyAn2L9) |
+| 2024 | Hardware Implementation of Memristor-Based Artificial Neural Networks | Fernando Aguirre et al. | Nature Communications | [Link](https://www.nature.com/articles/s41467-024-45670-9)<br>[Talk](https://www.youtube.com/watch?v=FvXadN9uyak) |
+| 2024 | Memristor-Based Spiking Neural Networks: Cooperative Development of Neural Network Architecture/Algorithms and Memristors | Huihui Peng, Lin Gan, Xin Guo | Elsevier Chip | [Link](https://www.sciencedirect.com/science/article/pii/S270947232400011X) |
+| 2025 | Review of Memristors for In‐Memory Computing and Spiking Neural Networks | Shooshtari, M., Serrano‐Gotarredona, T., & Linares‐Barranco, B. | Advanced Intelligent Systems | [Link](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202500806) |
+
+---
+
+## Spiking Neural Networks
+
+| Year | Title | Authors | Venue | Resources |
+|------|-------|---------|-------|-----------|
+| 2011 | Simulation of a Memristor-Based Spiking Neural Network Immune to Device Variations | Damien Querlioz, Olivier Bichler, Christian Gamrat | IEEE International Joint Conference on Neural Networks | [Link](https://ieeexplore.ieee.org/abstract/document/6033439) |
+| 2015 | Memory and Information Processing in Neuromorphic Systems | Giacomo Indiveri, Shih-Chii Liu | Proceedings of the IEEE | [Link](https://ieeexplore.ieee.org/abstract/document/7159144) |
+| 2015 | Spiking Deep Networks with LIF Neurons | Eric Hunsberger, Chris Eliasmith | arXiv | [Link](https://arxiv.org/abs/1510.08829)<br>[Talk](https://www.youtube.com/watch?v=PeW-TN3P1hk) |
+| 2018 | Programming Spiking Neural Networks on Intel’s Loihi | Lin, C. K., Wild, A., Chinya, G. N., Cao, Y., Davies, M., Lavery, D. M., and Wang, H. | IEEE Computer | [Link](https://doi.org/10.1109/MC.2018.157113521) |
+| 2022 | Spiking neural networks: A survey | João D Nunes, Marcelo Carvalho, Diogo Carneiro, and Jaime S Cardoso | IEEE Access | [Link](https://doi.org/10.1109/ACCESS.2022.3179968) |
+| 2022 | Spiking Neural Networks Based on Two-Dimensional Materials | Juan B. Roldán et al. | Nature 2D Materials and Applications | [Link](https://www.nature.com/articles/s41699-022-00341-5) |
+| 2022 | Hardware Implementation for Spiking Neural Networks | Nguyen, Thao NN, Bharadwaj Veeravalli, and Xuanyao Fong | IEEE | [Link](https://link.springer.com/chapter/10.1007/978-3-031-18034-7_13) |
+| 2023 | Exploring Neuromorphic Computing Based on Spiking Neural Networks: Algorithms to Hardware | Nitin Rathi et al. | ACM Computing Surveys (CSUR) | [Link](https://dl.acm.org/doi/full/10.1145/3571155)<br>[Talk](https://www.youtube.com/watch?v=cxhmvWVjsdc) |
+| 2023 | SpikingJelly: An Open-Source Machine Learning Infrastructure Platform for Spike-Based Intelligence | Wei Fang et al. | Science Advances | [Link](https://www.science.org/doi/full/10.1126/sciadv.adi1480)<br>[Talk](https://www.youtube.com/watch?v=n0x6LJ-F2sI&t=424s)<br>[Code](https://github.com/fangwei123456/spikingjelly) |
+
+---
+
+## Types of Threats
+
+| Year | Title | Authors | Venue | Resources |
+|------|-------|---------|-------|-----------|
+| 1997 | On the Importance of Checking Cryptographic Protocols for Faults | Dan Boneh, Richard A. DeMillo, Richard J. Lipton | Springer Berlin Heidelberg | [Link](https://link.springer.com/chapter/10.1007/3-540-69053-0_4)<br>[Talk](https://www.youtube.com/watch?v=940zih5bee4) |
+| 2001 | Electromagnetic Analysis: Concrete Results | Karine Gandolfi, Christophe Mourtel, Francis Olivier | Springer Berlin Heidelberg | [Link](https://link.springer.com/chapter/10.1007/3-540-44709-1_21) |
+| 2002 | Template Attacks | Suresh Chari, Josyula R Rao, and Pankaj Rohatgi | Springer Berlin Heidelberg | [Link](https://link.springer.com/chapter/10.1007/3-540-36400-5_3) |
+| 2003 | The EM Side-Channel(s) | Dakshi Agrawal et al. | Springer Berlin Heidelberg | [Link](https://link.springer.com/chapter/10.1007/3-540-36400-5_4) |
+| 2003 | Private Circuits: Securing Hardware Against Probing Attacks | Yuval Ishai, Amit Sahai, David Wagner | Springer, Berlin, Heidelberg | [Link](https://link.springer.com/chapter/10.1007/978-3-540-45146-4_27) |
+| 2004 | Correlation Power Analysis with a Leakage Model | Eric Brier, Christophe Clavier, Francis Olivier | Springer, Berlin, Heidelberg | [Link](https://link.springer.com/chapter/10.1007/978-3-540-28632-5_2) |
+| 2006 | Threshold Implementations Against Side-Channel Attacks and Glitches | Svetla Nikova, Christian Rechberger, Vincent Rijmen | Springer Berlin Heidelberg | [Link](https://link.springer.com/chapter/10.1007/11935308_38)<br>[Talk](https://www.youtube.com/watch?v=u8kakBA7mkc) |
+| 2016 | Security of neuromorphic computing: thwarting learning attacks using memristor’s obsolescence effect | Chaofei Yang, Beiye Liu, Hai Li, Yiran Chen, Mark Barnell, Qing Wu, Wujie Wen, and Jeyavijayan Rajendran | IEEE/ACM ICCAD (ICCAD) | [Link](https://doi.org/10.1145/2966986.2967074) |
+| 2018 | Turning your weakness into a strength: Watermarking Deep Neural Networks by Backdooring | Yossi Adi, Carsten Baum, Moustapha Cisse, Benny Pinkas, and Joseph Keshet | USENIX Security Symposium (USENIX Security ’18) | [Link](https://www.usenix.org/conference/usenixsecurity18/presentation/adi)<br>[Talk](https://www.youtube.com/watch?v=Fj-4i7BwKGM) |
+| 2019 | Spectre Attacks: Exploiting Speculative Execution | Paul Kocher et al. | Communications of the ACM | [Link](https://dl.acm.org/doi/abs/10.1145/3399742)<br>[Talk](https://www.youtube.com/watch?v=zOvBHxMjNls&pp=ygUxU3BlY3RyZSBhdHRhY2tzOiBleHBsb2l0aW5nIHNwZWN1bGF0aXZlIGV4ZWN1dGlvbg%3D%3D) |
+| 2020 | Meltdown: Reading Kernel Memory from User Space | Moritz Lipp et al. | Communications of the ACM | [Link](https://dl.acm.org/doi/fullHtml/10.1145/3357033)<br>[Talk](https://www.youtube.com/watch?v=WgAshgc9u6c&t=1075s) |
+| 2021 | Adversarial Machine Learning Attacks and Defense Methods in the Cyber Security Domain | Ishai Rosenberg et al. | ACM Computing Surveys | [Link](https://dl.acm.org/doi/abs/10.1145/3453158) |
+| 2021 | A Survey on the Security of PUFs | Shuqin Su, Min Zhu, Hanning Wang, Bohan Yang, and Leibo Liu | IOP Publishing | [Link](https://iopscience.iop.org/article/10.1088/1742-6596/1993/1/012031/meta) |
+| 2022 | Membership inference attacks from first principles | Nicholas Carlini, Steve Chien, Milad Nasr, Shuang Song, Andreas Terzis, and Florian Tramer | IEEE Symposium on Security and Privacy (SP) | [Link](https://ieeexplore.ieee.org/document/9833649)<br>[Talk](https://www.youtube.com/watch?v=1CNxfhMlk-A) |
+| 2023 | SoK: Deep Learning-Based Physical Side-Channel Analysis | Stjepan Picek et al. | ACM Computing Surveys | [Link](https://dl.acm.org/doi/full/10.1145/3569577)<br>[Talk](https://www.youtube.com/watch?v=IFbTPxEZFCs) |
+| 2024 | Neural Network Semantic Backdoor Detection and Mitigation: A Causality-Based Approach | Bing Sun, Jun Sun, Wayne Koh, and Jie Shi | USENIX Conference on Security Symposium | [Link](https://www.usenix.org/conference/usenixsecurity24/presentation/sun-bing)<br>[Talk](https://www.youtube.com/watch?v=xtoScc2JJow) |
+| 2024 | SoK: neural network extraction through physical side channels | Péter Horváth, Dirk Lauret, Zhuoran Liu, and Lejla Batina | USENIX Conference on Security Symposium | [Link](https://www.usenix.org/conference/usenixsecurity24/presentation/horvath)<br>[Talk](https://www.youtube.com/watch?v=i69ZN7Cotjk) |

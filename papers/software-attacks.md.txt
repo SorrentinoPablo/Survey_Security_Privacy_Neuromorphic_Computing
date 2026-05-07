@@ -1,0 +1,799 @@
+# Software Attacks and Defensive Strategies
+
+[Back to Main README](../README.md)
+
+This section lists papers related to software-level attacks, privacy threats, robustness evaluation, side-channel/fault effects visible at the model level, and defensive strategies for spiking neural networks, neuromorphic systems, in-memory computing, and related machine learning systems.
+
+---
+
+## 2026
+
+### Time Is All It Takes: Spike-Retiming Attacks on Event-Driven Spiking Neural Networks
+
+**Authors:** Yu, Y., Zhang, Q., Ye, S., Lin, X., Wei, Q., Wang, K., et al.  
+**Year:** 2026  
+**Venue:** ICLR (International Conference on Learning Representations)  
+**Type:** Adversarial  
+**Target / Leakage:** Neuron dynamics / timing and power leakage  
+
+**Resources:**  
+[Link](https://arxiv.org/pdf/2602.03284)  
+[Code](https://github.com/yuyi-sd/Spike-Retiming-Attacks)
+
+---
+
+### Robust Spiking Neural Networks Against Adversarial Attacks
+
+**Authors:** Wang, Shuai, Malu Zhang, Yulin Jiang, Dehao Zhang, Ammar Belatreche, Yu Liang, Yimeng Shan, Zijian Zhou, Yang Yang, and Haizhou Li.  
+**Year:** 2026  
+**Venue:** ICLR (International Conference on Learning Representations)  
+**Type:** Adversarial  
+**Target / Leakage:** Neuron dynamics / timing and power leakage  
+
+**Resources:**  
+[Link](https://arxiv.org/abs/2602.20548)
+
+---
+
+## 2025
+
+### Adversarial event patch for Spiking Neural Networks
+
+**Authors:** Song Yan, Jinlong Fei, Hui Wei, Bingbing Zhao, Zheng Wang, and Guoliang Yang  
+**Year:** 2025  
+**Venue:** ELSEVIER Knowledge-Based Systems  
+**Type:** Adversarial  
+**Target / Leakage:** Neuron dynamics / timing and power leakage  
+
+**Resources:**  
+[Link](https://doi.org/10.1016/j.knosys.2024.112865)
+
+---
+
+### Robust and Efficient Adversarial Defense in SNNs via Image Purification and Joint Detection
+
+**Authors:** Weiran Chen and Qi Xu  
+**Year:** 2025  
+**Venue:** IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)  
+**Type:** Adversarial  
+**Target / Leakage:** Robustness / Training  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/document/10888581)
+
+---
+
+### SCSC: Leveraging Sparsity and Fault-Tolerance for Energy-Efficient Spiking Neural Networks
+
+**Authors:** Li, Bo, Yue Liu, Wei Liu, Jinghai Wang, Xiao Huang, Zhiyi Yu, and Shanlin Xiao.  
+**Year:** 2025  
+**Venue:** Asia and South Pacific Design Automation Conference (ASP-DAC)  
+**Type:** Fault Injection  
+**Target / Leakage:** Robustness / SNN  
+
+**Resources:**  
+[Link](https://dl.acm.org/doi/abs/10.1145/3658617.3697718)
+
+---
+
+### Raw event-based adversarial attacks for Spiking Neural Networks with configurable latencies
+
+**Authors:** Xiao Du, Wanli Shi, Xiaohan Zhao, Yang Cao, Bin Gu, and Tieru Wu  
+**Year:** 2025  
+**Venue:** Elsevier Neural Networks  
+**Type:** Adversarial  
+**Target / Leakage:** Event-based tasks / Configurable latencies  
+
+**Resources:**  
+[Link](https://www.sciencedirect.com/science/article/pii/S0893608025009062?via%3Dihub)
+
+---
+
+### Rethinking adversarial attacks on neuromorphic models
+
+**Authors:** Aji, S., Boulet, P., Bouassida, M., and Alouani, I.  
+**Year:** 2025  
+**Venue:** IOP Neuromorphic Computing and Engineering  
+**Type:** Adversarial  
+**Target / Leakage:** Event sparsity / Spike-timing integrity  
+
+**Resources:**  
+[Link](https://iopscience.iop.org/article/10.1088/2634-4386/ae379c/meta)
+
+---
+
+### The inherent adversarial robustness of analog in-memory computing
+
+**Authors:** Corey Lammie, Julian Büchel, Athanasios Vasilopoulos, Manuel Le Gallo, and Abu Sebastian  
+**Year:** 2025  
+**Venue:** Nature Communications  
+**Type:** Adversarial  
+**Target / Leakage:** In-Memory Computing  
+
+**Resources:**  
+[Link](https://www.nature.com/articles/s41467-025-56595-2)
+
+---
+
+### Membership Privacy Evaluation in Deep Spiking Neural Networks
+
+**Authors:** Jiaxin Li, Gorka Abad, Stjepan Picek, and Mauro Conti  
+**Year:** 2025  
+**Venue:** Springer Nature Switzerland  
+**Type:** Inference  
+**Target / Leakage:** In-Memory Computing  
+
+**Resources:**  
+[Link](https://link.springer.com/chapter/10.1007/978-3-032-07884-1_11)
+
+---
+
+### Time-Distributed Backdoor Attacks on Federated Spiking Learning
+
+**Authors:** Abad, Gorka, Stjepan Picek, and Aitor Urbieta  
+**Year:** 2025  
+**Venue:** Springer Nature Switzerland European Symposium on Research in Computer Security  
+**Type:** Backdoor  
+**Target / Leakage:** Attack and Federated Learning  
+
+**Resources:**  
+[Link](https://link.springer.com/chapter/10.1007/978-3-032-07884-1_1)
+
+---
+
+### On the Privacy-Preserving Properties of Spiking Neural Networks with Unique Surrogate Gradients and Quantization Levels
+
+**Authors:** Moshruba, A., Snyder, S., Poursiami, H., and Parsa, M.  
+**Year:** 2025  
+**Venue:** IEEE International Joint Conference on Neural Networks (IJCNN)  
+**Type:** Inference  
+**Target / Leakage:** Privacy  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/document/11228352)
+
+---
+
+### Spatiotemporal Trigger on Event Data for Backdoor Attack on Spiking Neural Networks
+
+**Authors:** Gao, S., He, W., Chang, C. H., Gruel, A.  
+**Year:** 2025  
+**Venue:** IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)  
+**Type:** Backdoor  
+**Target / Leakage:** Event Data  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/11173104)
+
+---
+
+### Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients
+
+**Authors:** Li Lun, Kunyu Feng, Qinglong Ni, Ling Liang, Yuan Wang, Ying Li, Dunshan Yu, and Xiaoxin Cui  
+**Year:** 2025  
+**Venue:** IEEE Proceedings of the Computer Vision and Pattern Recognition Conference  
+**Type:** Adversarial  
+**Target / Leakage:** Sparsity  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/document/11092750)  
+[Code](https://github.com/ryime/PDSG-SDA)
+
+---
+
+### Flashy backdoor: Real-world environment backdoor attack on snns with dvs cameras
+
+**Authors:** Riaño, Roberto, Gorka Abad, Stjepan Picek, and Aitor Urbieta.  
+**Year:** 2025  
+**Venue:** IEEE Annual Computer Security Applications Conference (ACSAC)  
+**Type:** Backdoor  
+**Target / Leakage:** Countermeasure  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/11391974)  
+[Code](https://anonymous.4open.science/r/Flashy_backdoor/README.md)
+
+---
+
+### Do Spikes Protect Privacy? Investigating Black-Box Model Inversion Attacks in Spiking Neural Networks
+
+**Authors:** Hamed Poursiami, Ayana Moshruba, and Maryam Parsa  
+**Year:** 2025  
+**Venue:** Arxiv  
+**Type:** Inference  
+**Target / Leakage:** Model Inversion  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/11345914)
+
+---
+
+### Side-Channel Analysis of Integrate-and-Fire Neurons Within Spiking Neural Networks
+
+**Authors:** Matthias Probst, Manuel Brosch, Georg Sigl  
+**Year:** 2025  
+**Venue:** IEEE Transactions on Circuits and Systems  
+**Type:** SCA/FIA  
+**Target / Leakage:** Neuron dynamics / timing and power leakage  
+
+**Resources:**  
+[Link](https://doi.org/10.1109/TCSI.2024.3470135)
+
+---
+
+### Unsupervised Backdoor Detection and Mitigation for Spiking Neural Networks
+
+**Authors:** Jiachen Li, Bang Wu, Xiaoyu Xia, Xiaoning Liu, Xun Yi, and Xiuzhen Zhang  
+**Year:** 2025  
+**Venue:** RAID  
+**Type:** Backdoor  
+**Target / Leakage:** Countermeasure  
+
+**Resources:**  
+[Link](https://arxiv.org/abs/2510.06629)
+
+---
+
+## 2024
+
+### Are Neuromorphic Architectures Inherently Privacy-Preserving? An Exploratory Study
+
+**Authors:** Ayana Moshruba, Ihsen Alouani, Maryam Parsa  
+**Year:** 2024  
+**Venue:** PETS  
+**Type:** Inference  
+**Target / Leakage:** Data privacy / information leakage  
+
+**Resources:**  
+[Link](https://petsymposium.org/popets/2025/popets-2025-0060.php)  
+[Code](https://github.com/AyanaMoshruba/Neuromorphic_Privacy)
+
+---
+
+### Sneaky Spikes: Uncovering Stealthy Backdoor Attacks in Spiking Neural Networks with Neuromorphic Data
+
+**Authors:** Gorka Abad et al.  
+**Year:** 2024  
+**Venue:** NDSS  
+**Type:** Backdoor  
+**Target / Leakage:** Temporal spike patterns / poisoned triggers  
+
+**Resources:**  
+[Link](https://arxiv.org/abs/2302.06279)  
+[Talk](https://www.youtube.com/watch?v=kogm9YqCEWo&pp=ygURU25lYWt5IFNwaWtlcyBzbm4%3D)  
+[Code](https://github.com/GorkaAbad/Sneaky-Spikes)
+
+---
+
+### Unveiling Robustness of Spiking Neural Networks against Data Poisoning Attacks
+
+**Authors:** Srishti Yadav, Anshul Pundhir, Balasubramanian Raman, and Sanjeev Kumar  
+**Year:** 2024  
+**Venue:** IEEE International Joint Conference on Neural Networks (IJCNN)  
+**Type:** Adversarial  
+**Target / Leakage:** Data Poisoning  
+
+**Resources:**  
+[Link](https://doi.org/10.1109/IJCNN60899.2024.10650573)
+
+---
+
+### Watermarking Neuromorphic Brains: Intellectual Property Protection in Spiking Neural Networks
+
+**Authors:** Hamed Poursiami, Ihsen Alouani, Maryam Parsa  
+**Year:** 2024  
+**Venue:** International Conference on Neuromorphic Systems (ICONS)  
+**Type:** Inference  
+**Target / Leakage:** Model ownership / watermark leakage  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/10766558)  
+[Code](https://github.com/Hami-Siami/Watermarking-SNN)
+
+---
+
+### Securing on-Chip Learning: Navigating Vulnerabilities and Potential Safeguards in Spiking Neural Network Architectures
+
+**Authors:** Najmeh Nazari et al.  
+**Year:** 2024  
+**Venue:** IEEE International Symposium on Circuits and Systems (ISCAS)  
+**Type:** SCA/FIA  
+**Target / Leakage:** On-chip learning dynamics / fault sensitivity  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/10558041)
+
+---
+
+### HyperTheft: Thieving Model Weights from TEE-Shielded Neural Networks via Ciphertext Side Channels
+
+**Authors:** Yuanyuan Yuan et al.  
+**Year:** 2024  
+**Venue:** ACM SIGSAC Conference on Computer and Communications Security  
+**Type:** Inference  
+**Target / Leakage:** Encrypted execution / ciphertext leakage  
+
+**Resources:**  
+[Link](https://dl.acm.org/doi/abs/10.1145/3658644.3690317)  
+[Code](https://github.com/Yuanyuan-Yuan/HyperTheft)
+
+---
+
+### Exploring Vulnerabilities in Spiking Neural Networks: Direct Adversarial Attacks on Raw Event Data
+
+**Authors:** Yanmeng Yao, Xiaohan Zhao, and Bin Gu  
+**Year:** 2024  
+**Venue:** Springer European Conference on Computer Vision  
+**Type:** Adversarial  
+**Target / Leakage:** Raw-Event  
+
+**Resources:**  
+[Link](https://doi.org/10.1007/978-3-031-73220-1_24)  
+[Talk](https://www.youtube.com/watch?v=Hwb3BnSUgjw&pp=ygU0RXhwbG9yaW5nIFZ1bG5lcmFiaWxpdGllcyBpbiBTcGlraW5nIE5ldXJhbCBOZXR3b3Jrcw%3D%3D)
+
+---
+
+### Trained to leak: Hiding trojan side-channels in neural network weights
+
+**Authors:** Vincent Meyers, Michael Hefenbrock, Dennis Gnad, and Mehdi Tahoori  
+**Year:** 2024  
+**Venue:** IEEE International Symposium on Hardware Oriented Security and Trust (HOST)  
+**Type:** SCA  
+**Target / Leakage:** Trojan  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/document/10545350)
+
+---
+
+### Extracting Weights of CIM-Based Neural Networks Through Power Analysis of Adder-Trees
+
+**Authors:** Fouwad Jamil Mir, Abdullah Aljuffri, Said Hamdioui, and Mottaqiallah Taouil  
+**Year:** 2024  
+**Venue:** IEEE European Test Symposium (ETS)  
+**Type:** SCA  
+**Target / Leakage:** Power leakage  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/10567473)
+
+---
+
+### SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator
+
+**Authors:** Kwunhang Wong, Songqi Wang, Wei Huang  
+**Year:** 2024  
+**Venue:** IEEE/ACM ICCAD (ICCAD)  
+**Type:** Inference  
+**Target / Leakage:** Encrypted weights / key-dependent leakage  
+
+**Resources:**  
+[Link](https://dl.acm.org/doi/abs/10.1145/3676536.3676727)  
+[Code](https://github.com/kwunhangwong/SNNGX_qSNN_encryption)
+
+---
+
+### Brainleaks: On the privacy-preserving properties of neuromorphic architectures against model inversion attacks
+
+**Authors:** Hamed Poursiami, Ihsen Alouani, and Maryam Parsa  
+**Year:** 2024  
+**Venue:** IEEE International Conference on Machine Learning and Applications (ICMLA)  
+**Type:** Inference  
+**Target / Leakage:** Model Inversion  
+
+**Resources:**  
+[Link](https://doi.org/10.1109/ICMLA61862.2024.00102)  
+[Code](https://github.com/Hami-Siami/BrainLeaks)
+
+---
+
+### Spikewhisper: Temporal Spike Backdoor Attacks on Federated Neuromorphic Learning over Low-Power Devices
+
+**Authors:** Hanqing Fu et al.  
+**Year:** 2024  
+**Venue:** Springer Nature Singapore  
+**Type:** Backdoor  
+**Target / Leakage:** Federated SNNs / temporal spike triggers  
+
+**Resources:**  
+[Link](https://link.springer.com/chapter/10.1007/978-981-96-7005-5_17)
+
+---
+
+### On the Need of Neuromorphic Twins to Detect Denial-of-Service Attacks on Communication Networks
+
+**Authors:** Holger Boche et al.  
+**Year:** 2024  
+**Venue:** IEEE/ACM Transactions on Networking  
+**Type:** Adversarial  
+**Target / Leakage:** Network-level DoS / event saturation  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/10464213)
+
+---
+
+### Enhancing the Robustness of Spiking Neural Networks with Stochastic Gating Mechanisms
+
+**Authors:** Jianhao Ding et al.  
+**Year:** 2024  
+**Venue:** AAAI Conference on Artificial Intelligence  
+**Type:** Adversarial  
+**Target / Leakage:** Spike gating / adversarial noise robustness  
+
+**Resources:**  
+[Link](https://ojs.aaai.org/index.php/AAAI/article/view/27804)  
+[Code](https://github.com/DingJianhao/StoG-meets-SNN)
+
+---
+
+## 2023
+
+### Moving Target Defense Through Approximation for Low-Power Neuromorphic Edge Intelligence
+
+**Authors:** Ayesha Siddique, Khaza Anuarul Hoque  
+**Year:** 2023  
+**Venue:** IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems  
+**Type:** Adversarial  
+**Target / Leakage:** Model approximation / attack surface randomization  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/10296033)
+
+---
+
+### Security-aware approximate spiking neural networks
+
+**Authors:** Syed Tihaam Ahmad, Ayesha Siddique, and Khaza Anuarul Hoque  
+**Year:** 2023  
+**Venue:** IEEE DATE  
+**Type:** Adversarial  
+**Target / Leakage:** Attack and Defense / Robustness  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/document/10137269)  
+[Talk](https://www.youtube.com/watch?v=cNMrppQGu_4)
+
+---
+
+### Rate gradient approximation attack threats deep spiking neural networks
+
+**Authors:** Tong Bu, Jianhao Ding, Zecheng Hao, and Zhaofei Yu  
+**Year:** 2023  
+**Venue:** IEEE/CVF Conference on Computer Vision and Pattern Recognition  
+**Type:** Adversarial  
+**Target / Leakage:** Attack and Defense / Robustness  
+
+**Resources:**  
+[Link](https://openaccess.thecvf.com/content/CVPR2023/html/Bu_Rate_Gradient_Approximation_Attack_Threats_Deep_Spiking_Neural_Networks_CVPR_2023_paper.html)  
+[Talk](https://www.youtube.com/watch?v=dt2c0vP1cGk&pp=ygVHUmF0ZSBHcmFkaWVudCBBcHByb3hpbWF0aW9uIEF0dGFjayBUaHJlYXRzIERlZXAgU3Bpa2luZyBOZXVyYWwgTmV0d29ya3M%3D)  
+[Code](https://github.com/putshua/SNN_attack_RGA)
+
+---
+
+### Attacking the Spike: On the Security of Spiking Neural Networks to Adversarial Examples
+
+**Authors:** Nuo Xu, Kaleel Mahmood, Haowen Fang, Ethan Rathbun, Caiwen Ding, and Wujie Wen  
+**Year:** 2023  
+**Venue:** ELSEVIER Neurocomputing  
+**Type:** Adversarial  
+**Target / Leakage:** Spike-based inference / adversarial transferability  
+
+**Resources:**  
+[Link](https://doi.org/10.1016/J.NEUCOM.2025.131506)
+
+---
+
+### AD2VNCS: Adversarial Defense and Device Variation-tolerance in Memristive Crossbar-based Neuromorphic Computing Systems
+
+**Authors:** Bi, Y., Xu, Q., Geng, H., Chen, S., and Kang, Y  
+**Year:** 2023  
+**Venue:** ACM Transactions on Design Automation of Electronic Systems  
+**Type:** Adversarial  
+**Target / Leakage:** Memristor-based Countermeasure  
+
+**Resources:**  
+[Link](https://dl.acm.org/doi/full/10.1145/3600231)
+
+---
+
+### Threshold switching memristor-based radial-based spiking neuron circuit for conversion-based spiking neural networks adversarial attack improvement
+
+**Authors:** Zuheng Wu, Wei Li, Jianxun Zou, Zhe Feng, Tao Chen, Xiuquan Fang, Xing Li, Yunlai Zhu, Zuyu Xu, and Yuehua Dai  
+**Year:** 2023  
+**Venue:** IEEE Transactions on Circuits and Systems  
+**Type:** Adversarial  
+**Target / Leakage:** Memristor-based countermeasure  
+
+**Resources:**  
+[Link](https://doi.org/10.1109/TCSII.2023.3318592)
+
+---
+
+### Cybersecurity Regulation of Smart Mobility Hardware Systems: Case Assessment for Spin-Based MTJ Devices
+
+**Authors:** Divyanshu Divyanshu et al.  
+**Year:** 2023  
+**Venue:** IEEE International Conference on Smart Mobility (SM)  
+**Type:** Inference  
+**Target / Leakage:** System-level regulation and leakage risks  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/10112292)
+
+---
+
+### Improving Reliability of Spiking Neural Networks through Fault Aware Threshold Voltage Optimization
+
+**Authors:** Ayesha Siddique, Khaza Anuarul Hoque  
+**Year:** 2023  
+**Venue:** IEEE Proceedings of the Design, Automation & Test in Europe Conference & Exhibition (DATE)  
+**Type:** SCA/FIA  
+**Target / Leakage:** Voltage thresholds / fault resilience  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/10136999)
+
+---
+
+## 2022
+
+### Analysis of Power-Oriented Fault Injection Attacks on Spiking Neural Networks
+
+**Authors:** Karthikeyan Nagarajan et al.  
+**Year:** 2022  
+**Venue:** IEEE Design, Automation & Test in Europe Conference and Exhibition (DATE)  
+**Type:** SCA/FIA  
+**Target / Leakage:** Power perturbations / induced faults  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/9774577)
+
+---
+
+### Fault Injection Attacks in Spiking Neural Networks and Countermeasures
+
+**Authors:** Karthikeyan Nagarajan et al.  
+**Year:** 2022  
+**Venue:** Frontiers in Nanotechnology  
+**Type:** SCA/FIA  
+**Target / Leakage:** Neuron state corruption / fault models  
+
+**Resources:**  
+[Link](https://www.frontiersin.org/journals/nanotechnology/articles/10.3389/fnano.2021.801999/full)
+
+---
+
+### Efficiency Attacks on Spiking Neural Networks
+
+**Authors:** Sarada Krithivasan et al.  
+**Year:** 2022  
+**Venue:** ACM/IEEE DAC  
+**Type:** Adversarial  
+**Target / Leakage:** Energy consumption / spike amplification  
+
+**Resources:**  
+[Link](https://dl.acm.org/doi/abs/10.1145/3489517.3530443)
+
+---
+
+### Toward Robust Spiking Neural Network Against Adversarial Perturbation
+
+**Authors:** Ling Liang et al.  
+**Year:** 2022  
+**Venue:** Advances in Neural Information Processing Systems NeurIPS Proceedings  
+**Type:** Adversarial  
+**Target / Leakage:** Input perturbations / spike robustness  
+
+**Resources:**  
+[Link](https://papers.nips.cc/paper_files/paper/2022/hash/42bc612558891859b1b8717051f2c7b0-Abstract-Conference.html)
+
+---
+
+### SNN-RAT: Robustness-Enhanced Spiking Neural Network Through Regularized Adversarial Training
+
+**Authors:** Jianhao Ding et al.  
+**Year:** 2022  
+**Venue:** Advances in Neural Information Processing Systems NeurIPS Proceedings  
+**Type:** Adversarial  
+**Target / Leakage:** Adversarial training / spike regularization  
+
+**Resources:**  
+[Link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9cf904c86cc5f9ac95646c07d2cfa241-Abstract-Conference.html)  
+[Code](https://github.com/putshua/SNN-RAT)
+
+---
+
+### Robustness of spiking neural networks based on time-to-first-spike encoding against adversarial attacks
+
+**Authors:** Osamu Nomura, Yusuke Sakemi, Takeo Hosomi, and Takashi Morie  
+**Year:** 2022  
+**Venue:** IEEE Transactions on Circuits and Systems  
+**Type:** Adversarial  
+**Target / Leakage:** Robustness / Encoding  
+
+**Resources:**  
+[Link](https://doi.org/10.1109/TCSII.2022.3184313)
+
+---
+
+### PrivateSNN: Privacy-Preserving Spiking Neural Networks
+
+**Authors:** Kim, Y., Venkatesha, Y., and Panda, P.  
+**Year:** 2022  
+**Venue:** In Proceedings of the AAAI Conference on Artificial Intelligence  
+**Type:** Adversarial  
+**Target / Leakage:** Adversarial robustness and sparsity  
+
+**Resources:**  
+[Link](https://ojs.aaai.org/index.php/AAAI/article/view/20005)  
+[Code](https://github.com/Intelligent-Computing-Lab-Panda/PrivateSNN)
+
+---
+
+### A Comparative Study on the Performance and Security Evaluation of Spiking Neural Networks
+
+**Authors:** Li, Yanjie, et al.  
+**Year:** 2022  
+**Venue:** IEEE Access  
+**Type:** Adversarial  
+**Target / Leakage:** Adversarial robustness and sparsity  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/9940625)
+
+---
+
+## 2021
+
+### Adversarial Attack Mitigation Approaches Using RRAM-Neuromorphic Architectures
+
+**Authors:** Barve, S., Shukla, S., Dinakarrao, S. M. P., and Jha, R.  
+**Year:** 2021  
+**Venue:** ACM Proceedings of the Great Lakes Symposium on VLSI  
+**Type:** Adversarial  
+**Target / Leakage:** Memristor-based Countermeasure  
+
+**Resources:**  
+[Link](https://dl.acm.org/doi/abs/10.1145/3453688.3461757)
+
+---
+
+### HIRE-SNN: Harnessing the Inherent Robustness of Energy-Efficient Deep Spiking Neural Networks by Training With Crafted Input Noise
+
+**Authors:** Souvik Kundu et al.  
+**Year:** 2021  
+**Venue:** IEEE/CVF international conference on computer vision  
+**Type:** Adversarial  
+**Target / Leakage:** Noise-aware training / robustness  
+
+**Resources:**  
+[Link](https://openaccess.thecvf.com/content/ICCV2021/html/Kundu_HIRE-SNN_Harnessing_the_Inherent_Robustness_of_Energy-Efficient_Deep_Spiking_Neural_ICCV_2021_paper.html)  
+[Code](https://github.com/ksouvik52/hiresnn2021)
+
+---
+
+### Securing Deep Spiking Neural Networks against Adversarial Attacks through Inherent Structural Parameters
+
+**Authors:** Rida El-Allami, Alberto Marchisio, Muhammad Shafique, and Ihsen Alouani  
+**Year:** 2021  
+**Venue:** IEEE Design, Automation and Test in Europe Conference and Exhibition (DATE)  
+**Type:** Adversarial  
+**Target / Leakage:** SNN vs DNN robustness comparison  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/9473981)  
+[Code](https://github.com/rda-ela/SNN-Adversarial-Attacks)
+
+---
+
+### Neural coding in spiking neural networks: A comparative study for robust neuromorphic systems
+
+**Authors:** Wenzhe Guo, Mohammed E Fouda, Ahmed M Eltawil, and Khaled Nabil Salama  
+**Year:** 2021  
+**Venue:** Frontiers in Neuroscience  
+**Type:** Adversarial  
+**Target / Leakage:** Rate, time-to-first spike, phase and burst coding  
+
+**Resources:**  
+[Link](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.638474/full)
+
+---
+
+### Exploring adversarial attack in spiking neural networks with spike-compatible gradient
+
+**Authors:** Ling Liang, Xing Hu, Lei Deng, Yujie Wu, Guoqi Li, Yufei Ding, Peng Li, and Yuan Xie  
+**Year:** 2021  
+**Venue:** IEEE transactions on neural networks and learning systems  
+**Type:** Adversarial  
+**Target / Leakage:** Training  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/document/9527394)  
+[Talk](https://www.youtube.com/watch?v=GOD5n69MuLw)
+
+---
+
+## 2020
+
+### Is Spiking Secure? A Comparative Study on the Security Vulnerabilities of Spiking and Deep Neural Networks
+
+**Authors:** Alberto Marchisio et al.  
+**Year:** 2020  
+**Venue:** IEEE International joint conference on neural networks (IJCNN)  
+**Type:** Adversarial  
+**Target / Leakage:** SNN vs DNN robustness comparison  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/9207297)
+
+---
+
+### NeuroAttack: Undermining Spiking Neural Networks Security Through Externally Triggered Bit-Flips
+
+**Authors:** Valerio Venceslai et al.  
+**Year:** 2020  
+**Venue:** IEEE International Joint Conference on Neural Networks (IJCNN)  
+**Type:** SCA/FIA  
+**Target / Leakage:** External perturbations / bit-flip faults  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/9207351)
+
+---
+
+### TBT: Targeted Neural Network Attack With Bit Trojan
+
+**Authors:** Adnan Siraj Rakin et al.  
+**Year:** 2020  
+**Venue:** IEEE/CVF conference on computer vision and pattern recognition  
+**Type:** Backdoor  
+**Target / Leakage:** Bit-level trojans / targeted misclassification  
+
+**Resources:**  
+[Link](https://openaccess.thecvf.com/content_CVPR_2020/html/Rakin_TBT_Targeted_Neural_Network_Attack_With_Bit_Trojan_CVPR_2020_paper.html)  
+[Code](https://github.com/adnansirajrakin/TBT-CVPR2020)
+
+---
+
+## 2019
+
+### Parametric Noise Injection: Trainable Randomness to Improve Deep Neural Network Robustness Against Adversarial Attack
+
+**Authors:** Zhezhi He et al.  
+**Year:** 2019  
+**Venue:** IEEE/CVF conference on computer vision and pattern recognition  
+**Type:** Adversarial  
+**Target / Leakage:** Trainable noise / adversarial defense  
+
+**Resources:**  
+[Link](https://openaccess.thecvf.com/content_CVPR_2019/html/He_Parametric_Noise_Injection_Trainable_Randomness_to_Improve_Deep_Neural_Network_CVPR_2019_paper.html)  
+[Code](https://github.com/elliothe/CVPR_2019_PNI)
+
+---
+
+### Memristor-Based Neuromorphic Hardware Improvement for Privacy-Preserving ANN
+
+**Authors:** Fu, Jingyan, Zhiheng Liao, and Jinhui Wang  
+**Year:** 2019  
+**Venue:** IEEE Transactions on Very Large Scale Integration (VLSI) Systems  
+**Type:** Inference  
+**Target / Leakage:** Privacy on ANNs  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/8755322)
+
+---
+
+## 2015
+
+### Robustness of Spiking Deep Belief Networks to Noise and Reduced Bit Precision of Neuro-Inspired Hardware Platforms
+
+**Authors:** Evangelos Stromatias et al.  
+**Year:** 2015  
+**Venue:** Frontiers in neuroscience  
+**Type:** Adversarial  
+**Target / Leakage:** Quantization and noise robustness  
+
+**Resources:**  
+[Link](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2015.00222/full)

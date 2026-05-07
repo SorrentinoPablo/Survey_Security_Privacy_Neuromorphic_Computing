@@ -1,0 +1,855 @@
+# Hardware Vulnerabilities and Countermeasures
+
+[Back to Main README](../README.md)
+
+This section lists papers related to hardware-level vulnerabilities, side-channel attacks, fault-injection attacks, hardware Trojans, reliability threats, and countermeasures in neuromorphic, in-memory, memristive, and emerging computing systems.
+
+---
+
+## 2026
+
+### PHANTOM: Power Hammering Attack and Countermeasure on Multi-Tenant ReRAM Compute-in-Memory Accelerators
+
+**Authors:** Bommana, A. R., Bishnoi, R., Karimi, N., Firouzi, F., & Chakrabarty, K.  
+**Year:** 2026  
+**Venue:** IEEE Transactions on Information Forensics and Security  
+**Type:** Fault Injection  
+**Leakage / Target:** Power leakage / Row Hammer / CIM  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/11363264)
+
+---
+
+### NeuroSnitch: Exploiting Inter-Spike Interval Statistics for Timing Side-Channel Attacks on Noisy Neuromorphic Systems
+
+**Authors:** Khan, Mahreen, Maria Mushtaq, and Ludovic Apvrille.  
+**Year:** 2026  
+**Venue:** ACM Southeast (ACMSE) conference  
+**Type:** Side-Channel  
+**Leakage / Target:** Timing SCA / SNN  
+
+**Resources:**  
+[Link](https://telecom-paris.hal.science/hal-05537343/)
+
+---
+
+### Side-Channel Attack Analysis on 1T2R RRAM In-Memory Computing Via Feature Enrichment
+
+**Authors:** Maheswari, R.  
+**Year:** 2026  
+**Venue:** Elsevier Microelectronics Journal  
+**Type:** Side-Channel  
+**Leakage / Target:** DNN / IMC  
+
+**Resources:**  
+[Link](https://www.sciencedirect.com/science/article/abs/pii/S1879239126001311)
+
+---
+
+### Memristive neural network circuit with fault tolerance for character recognition
+
+**Authors:** Mei, Guo, Liu Jikang, and Xu Jingzhi  
+**Year:** 2026  
+**Venue:** IOP Chinese Physics  
+**Type:** Fault Injection  
+**Leakage / Target:** Memristor / Fault Modeling  
+
+**Resources:**  
+[Link](https://iopscience.iop.org/article/10.1088/1674-1056/ae3f94/pdf?casa_token=ec81joDBc_QAAAAA:yJ5NP5Zkt6C8vfobgqmGPf-uwAlCN3-LgXKxEAfOHdS1bMlBA4blV6BcOniOKBP7tJ0aEIqL5xpJCPhtFfrCzVehaeV6)
+
+---
+
+## 2025
+
+### Power Analysis Attacks on NVM Crossbar-based Neuromorphic Systems
+
+**Authors:** Cory Merkel and Allen Su  
+**Year:** 2025  
+**Venue:** Springer Neural Processing Letters  
+**Type:** Side Channel  
+**Leakage / Target:** Power leakage / Emerging Technology  
+
+**Resources:**  
+[Link](https://link.springer.com/article/10.1007/s11063-025-11730-4)
+
+---
+
+### Input Triggered Hardware Trojan Attack on Spiking Neural Networks
+
+**Authors:** Spyridon Raptis, Paul Kling, Ioannis Kaskampas, Ihsen Alouani, and Haralampos-G. Stratigopoulos  
+**Year:** 2025  
+**Venue:** IEEE International Symposium on Hardware Oriented Security and Trust HOST  
+**Type:** Hardware Trojan  
+**Leakage / Target:** Backdoor / SNN  
+
+**Resources:**  
+[Link](https://doi.org/10.1109/HOST64725.2025.11050044)
+
+---
+
+### AI Attacks AI: Recovering Neural Network Architecture from NVDLA Using AI-Assisted Side-Channel Attack
+
+**Authors:** Naina Gupta et al.  
+**Year:** 2025  
+**Venue:** ACM Transactions on Embedded Computing Systems  
+**Type:** Side-Channel  
+**Leakage / Target:** NVDLA accelerator / Power and EM leakage  
+
+**Resources:**  
+[Link](https://dl.acm.org/doi/full/10.1145/3731560)
+
+---
+
+### Power-balanced memristive cryptographic implementation against side channel attacks
+
+**Authors:** Chen, Ziang, Li-Wei Chen, Xianyue Zhao, Kefeng Li, Heidemarie Krüger, Ilia Polian, and Nan Du.  
+**Year:** 2025  
+**Venue:** IEEE Transactions on Nanotechnology  
+**Type:** Side-Channel  
+**Leakage / Target:** Countermeasure / Power leakage  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/11207550)
+
+---
+
+### Power Attack-Immune Spintronic-Based AES Hardware Accelerator for Secure and High-Performance PiM Architectures
+
+**Authors:** Pegah Iranfar, Abdolah Amirany, and Mohammad Hossein Moaiyeri  
+**Year:** 2025  
+**Venue:** IEEE Transactions on Magnetics  
+**Type:** Side-Channel  
+**Leakage / Target:** Power leakage / Emerging Technology  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/10898048)
+
+---
+
+### STDP-Trained Spiking Neural Network Reliability Assessment Through Fault Injections
+
+**Authors:** Zalfa Jouni and Haralampos-G Stratigopoulos  
+**Year:** 2025  
+**Venue:** IEEE International Symposium on On-Line Testing and Robust System Design (IOLTS)  
+**Type:** Fault Injection  
+**Leakage / Target:** SNN learning / Robustness  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/document/11116934)
+
+---
+
+### A new method for securing binary deep neural networks against model replication attacks using magnetic tunnel junctions
+
+**Authors:** MohammadHadiRezayati, Abdolah Amirany, Mohammad Hossein Moaiyeri, and Kian Jafari  
+**Year:** 2025  
+**Venue:** Springer Nature International Journal of Information Security  
+**Type:** Fault Injection  
+**Leakage / Target:** Emerging Memory Technology  
+
+**Resources:**  
+[Link](https://doi.org/10.1007/s10207-024-00976-z)
+
+---
+
+## 2024
+
+### IMCE: An In-Memory Computing and Encrypting Hardware Architecture for Robust Edge Security
+
+**Authors:** Hanyong Shao, Boyi Fu, Jinghao Yang, Wenpu Luo, Chang Su, Zhiyuan Fu, Kechao Tang, and Ru Huang  
+**Year:** 2024  
+**Venue:** IEEE Design, Automation and Test in Europe Conference and Exhibition (DATE)  
+**Type:** Side-Channel  
+**Leakage / Target:** IMC architecture / power leakage  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/10546703)
+
+---
+
+### Side-Channel Attack with Fault Analysis on Memristor-based Computation-in-Memory
+
+**Authors:** Brojogopal Sapui, Sergej Meschkov, and Mehdi B Tahoori  
+**Year:** 2024  
+**Venue:** IEEE International Symposium on On-Line Testing and Robust System Design (IOLTS)  
+**Type:** SCA/FIA  
+**Leakage / Target:** Template attack / SCA+FIA  
+
+**Resources:**  
+[Link](https://doi.org/10.1109/IOLTS60994.2024.10616088)
+
+---
+
+### Experimental Investigation of Side-Channel Attacks on Neuromorphic Spiking Neural Networks
+
+**Authors:** Bhanprakash Goswami, Tamoghno Das, and Manan Suri  
+**Year:** 2024  
+**Venue:** IEEE Embedded Systems Letters  
+**Type:** Side-Channel  
+**Leakage / Target:** Power analysis / Izhikevich and leaky integrate-and-fire (LIF) neurons  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/10298634)
+
+---
+
+### Hardware Attacks on ReRAM-Based AI Accelerators
+
+**Authors:** Masoud Heidary and Biresh Kumar Joardar  
+**Year:** 2024  
+**Venue:** IEEE DCAS  
+**Type:** Fault Injection  
+**Leakage / Target:** IMC memory arrays / voltage-enabled faults  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/10539864)
+
+---
+
+### On the Security Vulnerabilities of MRAM-based In-Memory Computing Architectures against Model Extraction Attacks
+
+**Authors:** Saion K Roy and Naresh R Shanbhag  
+**Year:** 2024  
+**Venue:** IEEE/ACM International Conference on Computer-Aided Design  
+**Type:** Fault Injection  
+**Leakage / Target:** IMC memory arrays / Emerging Technology  
+
+**Resources:**  
+[Link](https://dl.acm.org/doi/10.1145/3676536.3676685)
+
+---
+
+### NVM-Flip: Non-Volatile-Memory BitFlips on the System Level
+
+**Authors:** Felix Staudigl, Jan Philipp Thoma, Christian Niesler, Karl Sturm, Rebecca Pelke, Dominik Germek, Jan Moritz Joseph, Tim Güneysu, Lucas Davi, and Rainer Leupers  
+**Year:** 2024  
+**Venue:** ACM Workshop on Secure and Trustworthy Cyber-Physical Systems  
+**Type:** Fault Injection  
+**Leakage / Target:** IMC memory arrays / computation faults  
+
+**Resources:**  
+[Link](https://dl.acm.org/doi/abs/10.1145/3643650.3658606)
+
+---
+
+### Power side-channel analysis and mitigation for neural network accelerators based on memristive crossbars
+
+**Authors:** Sapui, Brojogopal, and Mehdi B. Tahoori.  
+**Year:** 2024  
+**Venue:** Asia and South Pacific Design Automation Conference (ASP-DAC)  
+**Type:** Side-Channel  
+**Leakage / Target:** Power Leakage / Countermeasure  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/10473828)
+
+---
+
+### BNN-flip: Enhancing the fault tolerance and security of compute-in-memory enabled binary neural network accelerators
+
+**Authors:** Malhotra, Akul, Chunguang Wang, and Sumeet Kumar Gupta.  
+**Year:** 2024  
+**Venue:** Asia and South Pacific Design Automation Conference (ASP-DAC)  
+**Type:** Fault Injection  
+**Leakage / Target:** IMC / Reliability  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/10473947)
+
+---
+
+### Amplifying Main Memory-Based Timing Covert and Side Channels using Processing-in-Memory Operations
+
+**Authors:** Konstantinos Kanellopoulos, F. Nisa Bostanci, Ataberk Olgun, A. Giray Yaglikci, Ismail Emir Yuksel, Nika Mansouri Ghiasi, Zulal Bingol, Mohammad Sadrosadati, and Onur Mutlu  
+**Year:** 2024  
+**Venue:** IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)  
+**Type:** Side Channel  
+**Leakage / Target:** Timing leakage  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/11068843)  
+[Code](https://github.com/CMU-SAFARI/IMPACT)
+
+---
+
+### FTC: A Universal Framework for Fault-Injection Attack Detection and Prevention
+
+**Authors:** Md Rafid Muttaki et al.  
+**Year:** 2024  
+**Venue:** IEEE Transactions on Very Large Scale Integration (VLSI)  
+**Type:** Fault Injection  
+**Leakage / Target:** General hardware logic / injected faults  
+
+**Resources:**  
+[Link](https://doi.org/10.1109/TVLSI.2024.3384531)
+
+---
+
+### CoMeT: Count-Min-Sketch-Based Row Tracking to Mitigate RowHammer at Low Cost
+
+**Authors:** F. Nisa Bostanci et al.  
+**Year:** 2024  
+**Venue:** IEEE International Symposium on High-Performance Computer Architecture (HPCA)  
+**Type:** Fault Injection  
+**Leakage / Target:** DRAM rows / disturbance errors  
+
+**Resources:**  
+[Link](https://doi.org/10.1109/HPCA57654.2024.00050)  
+[Talk](https://www.youtube.com/watch?v=gvgJyYpzaUQ&pp=ygVMQ29NZVQ6IENvdW50LU1pbi1Ta2V0Y2gtYmFzZWQgUm93IFRyYWNraW5nIHRvIE1pdGlnYXRlIFJvd0hhbW1lciBhdCBMb3cgQ29zdA%3D%3D)  
+[Code](https://github.com/CMU-SAFARI/CoMeT)
+
+---
+
+### ProtFe: Low-Cost Secure Power Side-Channel Protection for General and Custom FeFET-Based Memories
+
+**Authors:** Taixin Li et al.  
+**Year:** 2024  
+**Venue:** ACM Transactions on Design Automation of Electronic Systems  
+**Type:** Side-Channel  
+**Leakage / Target:** FeFET memories / power leakage  
+
+**Resources:**  
+[Link](https://dl.acm.org/doi/full/10.1145/3604589)
+
+---
+
+### UnTrustZone: Systematic Accelerated Aging to Expose On-Chip Secrets
+
+**Authors:** Jubayer Mahmod, Matthew Hicks  
+**Year:** 2024  
+**Venue:** IEEE Symposium on Security and Privacy (SP)  
+**Type:** Fault Injection  
+**Leakage / Target:** Aging-induced degradation / reliability leakage  
+
+**Resources:**  
+[Link](https://doi.org/10.1109/SP54263.2024.00069)  
+[Talk](https://www.youtube.com/watch?v=KnNLuTITHi8&pp=ygUTVW5UcnVzdFpvbmUgb24gY2hpcA%3D%3D)
+
+---
+
+### S-Tune: SOT-MTJ Manufacturing Parameters Tuning for Securing the Next Generation of Computing
+
+**Authors:** Muhtasim Alam Chowdhury et al.  
+**Year:** 2024  
+**Venue:** Frontiers in Electronics  
+**Type:** Hardware Trojan  
+**Leakage / Target:** Spintronic devices / parametric manipulation  
+
+**Resources:**  
+[Link](https://www.frontiersin.org/journals/electronics/articles/10.3389/felec.2024.1409548/full)
+
+---
+
+### Error Detection and Correction Codes for Safe In-Memory Computations
+
+**Authors:** Luca Parrini et al.  
+**Year:** 2024  
+**Venue:** IEEE European Test Symposium (ETS)  
+**Type:** Fault Injection  
+**Leakage / Target:** IMC memory arrays / Error Correction  
+
+**Resources:**  
+[Link](https://royalsocietypublishing.org/rsta/article-abstract/383/2288/20230399/108362/Neural-in-memory-checksums-an-error-detection-and?redirectedFrom=fulltext)
+
+---
+
+### SpikingJET: Enhancing Fault Injection for Fully and Convolutional Spiking Neural Networks
+
+**Authors:** Göğebakan, A. B., Magliano, E., Carpegna, A., Ruospo, A., Savino, A. and Di Carlo, S.  
+**Year:** 2024  
+**Venue:** IEEE International Symposium on On-Line Testing and Robust System Design (IOLTS)  
+**Type:** Fault Injection  
+**Leakage / Target:** SNNs  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/10616060/)  
+[Code](https://github.com/smilies-polito/SpikingJET)
+
+---
+
+### Era of Sentinel Tech: Charting Hardware Security Landscapes Through Post-Silicon Innovation, Threat Mitigation and Future Trajectories
+
+**Authors:** Mamidipaka B. R. Srinivas, Konguvel Elango  
+**Year:** 2024  
+**Venue:** IEEE Access  
+**Type:** Hardware Trojan  
+**Leakage / Target:** Post-silicon components / Countermeasures  
+
+**Resources:**  
+[Link](https://doi.org/10.1109/ACCESS.2024.3400624)
+
+---
+
+### Enabling Power Side-Channel Attack Simulation on Mixed-Signal Neural Network Accelerators
+
+**Authors:** Simon Wilhelmstätter, Joschua Conrad, Devanshi Upadhyaya, Ilia Polian and Maurits Ortmanns  
+**Year:** 2024  
+**Venue:** IEEE International Conference on Omni-layer Intelligent Systems (COINS)  
+**Type:** Side-Channel  
+**Leakage / Target:** Neural Network Accelerators / timing and power leakage  
+
+**Resources:**  
+[Link](https://doi.org/10.1109/COINS61597.2024.10622156)
+
+---
+
+### NEUROSEC: FPGA-Based Neuromorphic Audio Security
+
+**Authors:** Murat Isik et al.  
+**Year:** 2024  
+**Venue:** Springer Nature Switzerland  
+**Type:** Side-Channel  
+**Leakage / Target:** FPGA-based SNN / timing and power leakage  
+
+**Resources:**  
+[Link](https://link.springer.com/chapter/10.1007/978-3-031-55673-9_10)
+
+---
+
+### On the Layout-Oriented Investigation of Power Attack Hardness of Spintronic-Based Logic Circuits
+
+**Authors:** Pegah Iranfar et al.  
+**Year:** 2024  
+**Venue:** Springer Circuits, Systems, and Signal Processing  
+**Type:** Side-Channel  
+**Leakage / Target:** Emerging Technology / Power leakage  
+
+**Resources:**  
+[Link](https://link.springer.com/article/10.1007/s00034-024-02603-7)
+
+---
+
+## 2023
+
+### Mercury: An Automated Remote Side-Channel Attack to NVIDIA Deep Learning Accelerator
+
+**Authors:** Xiaobei Yan et al.  
+**Year:** 2023  
+**Venue:** IEEE International Conference on Field Programmable Technology (ICFPT)  
+**Type:** Side-Channel  
+**Leakage / Target:** GPU accelerator / timing and power leakage  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/10416146)
+
+---
+
+### Hardware Trojans in eNVM Neuromorphic Devices
+
+**Authors:** Lingxi Wu et al.  
+**Year:** 2023  
+**Venue:** IEEE DATE  
+**Type:** Hardware Trojan  
+**Leakage / Target:** eNVM neuromorphic devices / malicious circuitry  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/10136984)
+
+---
+
+### PowerGAN: a machine learning approach for power side-channel attack on compute-in-memory accelerators
+
+**Authors:** Ziyu Wang, Yuting Wu, Yongmo Park, Sangmin Yoo, Xinxin Wang, Jason K Eshraghian and Wei D Lu  
+**Year:** 2023  
+**Venue:** Wiley Advanced Intelligent Systems  
+**Type:** Hardware Trojan  
+**Leakage / Target:** machine Learning Attack / Power leakage  
+
+**Resources:**  
+[Link](https://doi.org/10.1002/aisy.202300313)
+
+---
+
+### Side-Channel Attack Analysis on In-Memory Computing Architectures
+
+**Authors:** Ziyu Wang, Fan-hsuan Meng, Yongmo Park, Jason K Eshraghian and Wei D Lu  
+**Year:** 2023  
+**Venue:** IEEE Transactions on Emerging Topics in Computing  
+**Type:** Side-Channel  
+**Leakage / Target:** IMC architectures / power and timing leakage  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/10077551)
+
+---
+
+### Fault injection in native logic-in-memory computation on neuromorphic hardware
+
+**Authors:** Felix Staudigl, Thorben Fetz, Rebecca Pelke, Dominik Sisejkovic, Jan Moritz Joseph, Leticia Bolzani Pöhls, and Rainer Leupers  
+**Year:** 2023  
+**Venue:** ACM/IEEE Design Automation Conference (DAC)  
+**Type:** Side-Channel  
+**Leakage / Target:** IMC architectures / power and timing leakage  
+
+**Resources:**  
+[Link](https://doi.org/10.1109/DAC56929.2023.10247742)  
+[Talk](https://www.youtube.com/watch?v=7StHp26OM6w&pp=ygUpRmF1bHQgaW5qZWN0aW9uIGluIG5hdGl2ZSBsb2dpYy1pbi1tZW1vcnk%3D)
+
+---
+
+### Side channel and fault analyses on memristor-based logic in-memory
+
+**Authors:** Pietro Inglese, Elena-Ioana Vatajelu, and Giorgio Di Natale  
+**Year:** 2023  
+**Venue:** IEEE Design & Test  
+**Type:** Side-Channel and Fault Injection  
+**Leakage / Target:** Memristors / Logic-In-Memory  
+
+**Resources:**  
+[Link](https://hal.science/hal-04252272v1/file/DT_DT-2023-04-0038.R1_Di%20Natale.pdf)
+
+---
+
+### Understanding and Characterizing Side Channels Exploiting Phase-Change Memories
+
+**Authors:** Md Hafizul Islam Chowdhury et al.  
+**Year:** 2023  
+**Venue:** IEEE Micro  
+**Type:** Side-Channel  
+**Leakage / Target:** PCM devices / resistance and power leakage  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/10024334/)
+
+---
+
+## 2022
+
+### DeepSteal: Advanced Model Extractions Leveraging Efficient Weight Stealing in Memories
+
+**Authors:** Adnan Siraj Rakin et al.  
+**Year:** 2022  
+**Venue:** IEEE symposium on security and privacy (SP)  
+**Type:** Side-Channel  
+**Leakage / Target:** On-chip memories / access-pattern leakage  
+
+**Resources:**  
+[Link](https://doi.org/10.1109/SP46214.2022.9833743)  
+[Talk](https://www.youtube.com/watch?v=9LcD-O8mRNM&pp=ygVVRGVlcFN0ZWFsIEFkdmFuY2VkIE1vZGVsIEV4dHJhY3Rpb25zIExldmVyYWdpbmcgRWZmaWNpZW50IFdlaWdodCBTdGVhbGluZyBpbiBNZW1vcmllc9IHCQlNCgGHKiGM7w%3D%3D)  
+[Code](https://github.com/casrl/DeepSteal-exploit)
+
+---
+
+### A Survey of Neuromorphic Computing-in-Memory: Architectures, Simulators, and Security
+
+**Authors:** Felix Staudigl et al.  
+**Year:** 2022  
+**Venue:** IEEE Design and Test  
+**Type:** Side-Channel / Fault Injection  
+**Leakage / Target:** Neuromorphic IMC platforms / multiple leakages  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/9504532)
+
+---
+
+### Enhancing Security of Memristor Computing System Through Secure Weight Mapping
+
+**Authors:** Minhui Zou et al.  
+**Year:** 2022  
+**Venue:** IEEE Computer Society Annual Symposium on VLSI (ISVLSI)  
+**Type:** Side-Channel  
+**Leakage / Target:** Memristive weights / power leakage  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/9912121)
+
+---
+
+### enpheeph: A Fault Injection Framework for Spiking and Compressed Deep Neural Networks
+
+**Authors:** Colucci, Alessio, Andreas Steininger, and Muhammad Shafique  
+**Year:** 2022  
+**Venue:** IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)  
+**Type:** Fault Injection  
+**Leakage / Target:** SDNNs  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/9982181)  
+[Code](https://github.com/Alexei95/enpheeph)
+
+---
+
+### NeuroHammer: Inducing Bit-Flips in Memristive Crossbar Memories
+
+**Authors:** Felix Staudigl, Hazem Al Indari, Daniel Schön, Dominik Sisejkovic, Jan Moritz Joseph, Vikas Rana, Stephan Menzel, et al.  
+**Year:** 2022  
+**Venue:** IEEE DATE  
+**Type:** Fault Injection  
+**Leakage / Target:** Memristive crossbars / disturbance faults  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/9774651)
+
+---
+
+### Hardware Functional Obfuscation with Ferroelectric Active Interconnects
+
+**Authors:** Tongguang Yu et al.  
+**Year:** 2022  
+**Venue:** Nature communications  
+**Type:** Hardware Trojan  
+**Leakage / Target:** Ferroelectric interconnects / logic obfuscation  
+
+**Resources:**  
+[Link](https://www.nature.com/articles/s41467-022-29795-3)
+
+---
+
+### Logic Locking Using Emerging 2T/3T Magnetic Tunnel Junctions for Hardware Security
+
+**Authors:** Divyanshu Divyanshu, Rajat Kumar, Danial Khan, Selma Amara, and Yehia Massoud  
+**Year:** 2022  
+**Venue:** IEEE Access  
+**Type:** Hardware Trojan  
+**Leakage / Target:** MTJ-based logic / structural locking  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/9899452)
+
+---
+
+### Variation enhanced attacks against rram-based neuromorphic computing system
+
+**Authors:** Hao Lv, Bing Li, Lei Zhang, Cheng Liu, and Ying Wang  
+**Year:** 2022  
+**Venue:** IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems  
+**Type:** Fault Injection  
+**Leakage / Target:** RRAM  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/document/9893887)
+
+---
+
+### Enhancing security of memristor computing system through secure weight mapping
+
+**Authors:** Minhui Zou, Junlong Zhou, Xiaotong Cui, Wei Wang, and Shahar Kvatinsky  
+**Year:** 2022  
+**Venue:** IEEE Computer Society Annual Symposium on VLSI (ISVLSI)  
+**Type:** Fault Injection  
+**Leakage / Target:** Memristor / Countermeasure / obfuscation  
+
+**Resources:**  
+[Link](https://doi.org/10.1109/ISVLSI54635.2022.00044)
+
+---
+
+## 2021
+
+### Revealing the secrets of spiking neural networks: The case of izhikevich neuron
+
+**Authors:** Luíza C Garaffa, Abdullah Aljuffri, Cezar Reinbrecht, Said Hamdioui, Mottaqiallah Taouil, and Johanna Sepulveda  
+**Year:** 2021  
+**Venue:** IEEE Euromicro Conference on Digital System Design (DSD)  
+**Type:** Side-Channel  
+**Leakage / Target:** Neuromorphic architectures on FPGA / power and timing leakage  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/9556441)
+
+---
+
+### Understanding Security Threats in Emerging Neuromorphic Computing Architecture
+
+**Authors:** Chidhambaranathan Rajamanikkam et al.  
+**Year:** 2021  
+**Venue:** Springer Journal of Hardware and Systems Security  
+**Type:** Side-Channel  
+**Leakage / Target:** Neuromorphic architectures / power leakage  
+
+**Resources:**  
+[Link](https://link.springer.com/article/10.1007/s41635-021-00110-8)
+
+---
+
+### SCARE: Side-Channel Attack on In-Memory Computing for Reverse Engineering
+
+**Authors:** Sina Sayyah Ensan et al.  
+**Year:** 2021  
+**Venue:** IEEE Transactions on Very Large Scale Integration (VLSI)  
+**Type:** Side-Channel  
+**Leakage / Target:** IMC arrays / power and timing leakage  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/9600458)
+
+---
+
+### Neuron fault tolerance in spiking neural networks
+
+**Authors:** Theofilos Spyrou, Sarah A El-Sayed, Engin Afacan, Luis A Camuñas-Mesa, Bernabé Linares-Barranco and Haralampos G Stratigopoulos  
+**Year:** 2021  
+**Venue:** IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE)  
+**Type:** Fault Injection  
+**Leakage / Target:** IMC arrays / power and timing leakage  
+
+**Resources:**  
+[Link](https://doi.org/10.23919/DATE51398.2021.9474081)
+
+---
+
+### BlockHammer: Preventing RowHammer at Low Cost by Blacklisting Rapidly-Accessed DRAM Rows
+
+**Authors:** A Giray Yağlikçi, Minesh Patel, Jeremie S Kim, et al.  
+**Year:** 2021  
+**Venue:** IEEE International Symposium on High-Performance Computer Architecture (HPCA)  
+**Type:** Fault Injection  
+**Leakage / Target:** DRAM rows / row disturbance  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/9407238)  
+[Talk](https://www.youtube.com/watch?v=4Y01N1BhWv4)  
+[Code](https://github.com/CMU-SAFARI/BlockHammer)
+
+---
+
+### Emerging Topics in Hardware Security
+
+**Authors:** Mark Tehranipoor  
+**Year:** 2021  
+**Venue:** Springer Berlin  
+**Type:** Hardware Trojan  
+**Leakage / Target:** Hardware supply chain / post-silicon threats  
+
+**Resources:**  
+[Link](https://link.springer.com/book/10.1007/978-3-030-64448-2)  
+[Talk](https://www.youtube.com/watch?v=gZxyb45jnLM)
+
+---
+
+### Deep Learning Side-Channel Attack Against Hardware Implementations of AES
+
+**Authors:** Takaya Kubota et al.  
+**Year:** 2021  
+**Venue:** ELSEVIER IMicroprocessors and Microsystems  
+**Type:** Side-Channel  
+**Leakage / Target:** AES hardware / power leakage  
+
+**Resources:**  
+[Link](https://www.sciencedirect.com/science/article/abs/pii/S0141933120305408)
+
+---
+
+### In situ aging-aware error monitoring scheme for IMPLY-based memristive computing-in-memory systems
+
+**Authors:** Jiarui Xu, Yi Zhan, Yujie Li, Jiajun Wu, Xinglong Ji, Guoyi Yu, Wenyu Jiang, Rong Zhao, and Chao Wang  
+**Year:** 2021  
+**Venue:** IEEE Transactions on Circuits and Systems  
+**Type:** Fault Injection  
+**Leakage / Target:** Aging  
+
+**Resources:**  
+[Link](https://doi.org/10.1109/TCSI.2021.3095545)
+
+---
+
+## 2020
+
+### Mempoline: Mitigating memory-based side channel attacks through memory access obfuscation
+
+**Authors:** Massoud Masoumi  
+**Year:** 2020  
+**Venue:** IACR Cryptology  
+**Type:** Side-Channel  
+**Leakage / Target:** Countermeasures / obfuscation  
+
+**Resources:**  
+[Link](https://eprint.iacr.org/2020/653)
+
+---
+
+### Novel Hybrid CMOS/Memristor Implementation of the AES Algorithm Robust Against DPA
+
+**Authors:** Massoud Masoumi  
+**Year:** 2020  
+**Venue:** IEEE Transactions on Circuits and Systems  
+**Type:** Side-Channel  
+**Leakage / Target:** AES on memristive hardware / power leakage  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/8782576)
+
+---
+
+## 2019
+
+### More Practical Single-Trace Attacks on the Number Theoretic Transform
+
+**Authors:** Peter Pessl, Robert Primas  
+**Year:** 2019  
+**Venue:** Springer International Publishing Cham  
+**Type:** Side-Channel  
+**Leakage / Target:** Cryptographic accelerators / power leakage  
+
+**Resources:**  
+[Link](https://link.springer.com/chapter/10.1007/978-3-030-30530-7_7)
+
+---
+
+### Stuck-at-fault tolerant schemes for memristor crossbar array-based neural networks
+
+**Authors:** Yeo, Injune, Myonglae Chu, Sang-Gyun Gi, Hyunsang Hwang, and Byung-Geun Lee.  
+**Year:** 2019  
+**Venue:** IEEE Transactions on Electron Devices  
+**Type:** Fault Injection  
+**Leakage / Target:** Memristive Accelerator  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/8715385)
+
+---
+
+### CSI NN: Reverse Engineering of Neural Network Architectures Through Electromagnetic Side Channel
+
+**Authors:** Lejla Batina et al.  
+**Year:** 2019  
+**Venue:** USENIX Security Symposium (USENIX Security ’19)  
+**Type:** Side-Channel  
+**Leakage / Target:** Neural accelerators / EM leakage  
+
+**Resources:**  
+[Link](https://www.usenix.org/conference/usenixsecurity19/presentation/batina)  
+[Talk](https://www.youtube.com/watch?v=dZbrBILRz_c)
+
+---
+
+### Exploiting the Switching Dynamics of HfO₂-Based ReRAM Devices for Reliable Analog Memristive Behavior
+
+**Authors:** F. Cüppers et al.  
+**Year:** 2019  
+**Venue:** APL materials  
+**Type:** Side-Channel  
+**Leakage / Target:** ReRAM devices / switching dynamics  
+
+**Resources:**  
+[Link](https://pubs.aip.org/aip/apm/article/7/9/091105/1023461)
+
+---
+
+### Thwarting replication attack against memristor-based neuromorphic computing system
+
+**Authors:** Yang, C., Liu, B., Li, H., Chen, Y., Barnell, M., Wu, Q., Rajendran, J., et al.  
+**Year:** 2019  
+**Venue:** IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems  
+**Type:** Fault Injection  
+**Leakage / Target:** ReRAM devices / switching dynamics  
+
+**Resources:**  
+[Link](https://ieeexplore.ieee.org/abstract/document/8815820)
+
+---
+
+## 2017
+
+### Correlation Power Analysis Attack Against STT-MRAM Based Cryptosystems
+
+**Authors:** Abhishek Chakraborty et al.  
+**Year:** 2017  
+**Venue:** IEEE International Symposium on Hardware Oriented Security and Trust (HOST)  
+**Type:** Side-Channel  
+**Leakage / Target:** STT-MRAM cryptosystems / power leakage  
+
+**Resources:**  
+[Link](https://eprint.iacr.org/2017/413)
