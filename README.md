@@ -46,7 +46,7 @@ For any recommendations, questions or support, please reach out through: p.f.a.s
 - [-Hardware Vulnerabilities and Countermeasures](#Hardware-Vulnerabilities-and-Countermeasures) 
 - [-Software Attacks and Defensive Strategies](#Software-Attacks-and-Defensive-Strategies)
 - [-Emerging Security Applications](#Emerging-Security-Applications)
-
+<div style="overflow-x:auto;">
 ## Introduction
 
 <details>
@@ -309,4 +309,6 @@ For any recommendations, questions or support, please reach out through: p.f.a.s
 | 2019 | A Physical Unclonable Function With Bit Error Rate Less Than 2.3e-8 Based on Contact Formation Probability Without Error Correction Code | Duhyun Jeon, Jong Hak Baek, Yong-Duck Kim, Jaeseong Lee, Dong Kyue Kim and Byong-Deok Choi | PUF / Error Correction | IEEE Journal of Solid-State Circuits | [Link](https://ieeexplore.ieee.org/document/8901186)<br> <br> |
 | 2018 | Memristor Technology: Synthesis and Modeling for Sensing and Security Applications | Heba Abunahla, Baker Mohammad | Memristor modeling / Sensing Security | Springer International Publishing | [Link](https://link.springer.com/book/10.1007/978-3-319-65699-1)<br> <br> |
 | 2018 | Advancing Hardware Security Using Polymorphic and Stochastic Spin-Hall Effect Devices | Satwik Patnaik et al. | PUF/TRNG / Spin-Hall Devices / Polymorphic Security | IEEE Design, Automation and Test in Europe Conference and Exhibition (DATE) | [Link](https://ieeexplore.ieee.org/abstract/document/8341986/)<br> <br> |
+
+</div>
 | 2018 | A Bio-Inspired Physically Transient/Biodegradable Synapse for Security Neuromorphic Computing Based on Memristors | Bingjie Dang et al. | Secure Sensing / Transient memristors | RSOC Nanoscale | [Link](https://pubs.rsc.org/en/content/articlelanding/2018/nr/c8nr07442a/unauth)<br> <br> |
