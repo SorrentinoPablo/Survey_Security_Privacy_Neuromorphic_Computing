@@ -118,8 +118,8 @@ For any recommendations, questions or support, please reach out through: p.f.a.s
 ## Hardware Vulnerabilities and Countermeasures 
 ## [[Back to Top](#survey-on-security-and-privacy-neuromorphic-computing)]
 
-| Year | Title | Authors | Type | Target / Leakage | Venue | Details |
-|------|-------|---------|------|------------------|-------|---------|
+| Year | Title | Authors | Type | Leakage | Venue | Details |
+|------|-------|---------|------|---------|-------|---------|
 | 2026 | PHANTOM: Power Hammering Attack and Countermeasure on Multi-Tenant ReRAM Compute-in-Memory Accelerators | Bommana, A. R., Bishnoi, R., Karimi, N., Firouzi, F., & Chakrabarty, K. | Fault Injection | Power leakage / Row Hammer / CIM | IEEE Transactions on Information Forensics and Security | [Link](https://ieeexplore.ieee.org/abstract/document/11363264)<br> <br> |
 | 2026 | NeuroSnitch: Exploiting Inter-Spike Interval Statistics for Timing Side-Channel Attacks on Noisy Neuromorphic Systems | Khan, Mahreen, Maria Mushtaq, and Ludovic Apvrille. | Side-Channel | Timing SCA / SNN | ACM Southeast (ACMSE) conference | [Link](https://telecom-paris.hal.science/hal-05537343/)<br> <br> |
 | 2026 | Side-Channel Attack Analysis on 1T2R RRAM In-Memory Computing Via Feature Enrichment | Maheswari, R. | Side-Channel | DNN / IMC  | Elsevier Microelectronics Journal | [Link](https://www.sciencedirect.com/science/article/abs/pii/S1879239126001311)<br> <br> |
