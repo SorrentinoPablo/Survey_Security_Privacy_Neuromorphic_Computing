@@ -47,6 +47,14 @@ For any recommendations, questions or support, please reach out through: p.f.a.s
 - [-Software Attacks and Defensive Strategies](#Software-Attacks-and-Defensive-Strategies)
 - [-Emerging Security Applications](#Emerging-Security-Applications)
 
+<p align="center">
+  <img src="figures/Inpiration.png" alt="Security and privacy in neuromorphic computing" width="850">
+</p>
+
+<p align="center">
+  <em>Overview of the security and privacy landscape in neuromorphic and in-memory computing systems.</em>
+</p>
+
 ## Introduction
 
 <details>
@@ -114,6 +122,14 @@ For any recommendations, questions or support, please reach out through: p.f.a.s
 | 2024 | SoK: neural network extraction through physical side channels | Péter Horváth, Dirk Lauret, Zhuoran Liu, and Lejla Batina | USENIX Conference on Security Symposium | [Link](https://www.usenix.org/conference/usenixsecurity24/presentation/horvath)<br>[Talk](https://www.youtube.com/watch?v=i69ZN7Cotjk)<br> |
 
 </details>
+
+<p align="center">
+  <img src="figures/Hardware_picture.png" alt="Hardware vulnerabilities and countermeasures in neuromorphic systems" width="850">
+</p>
+
+<p align="center">
+  <em>Hardware attack surfaces and countermeasures in neuromorphic, in-memory, and emerging computing systems.</em>
+</p>
 
 ## Hardware Vulnerabilities and Countermeasures 
 ## [[Back to Top](#survey-on-security-and-privacy-neuromorphic-computing)]
@@ -247,6 +263,14 @@ For any recommendations, questions or support, please reach out through: p.f.a.s
 | 2019 | Parametric Noise Injection: Trainable Randomness to Improve Deep Neural Network Robustness Against Adversarial Attack | Zhezhi He et al. | Adversarial | Trainable noise / adversarial defense | IEEE/CVF conference on computer vision and pattern recognition | [Link](https://openaccess.thecvf.com/content_CVPR_2019/html/He_Parametric_Noise_Injection_Trainable_Randomness_to_Improve_Deep_Neural_Network_CVPR_2019_paper.html)<br> <br>[Code](https://github.com/elliothe/CVPR_2019_PNI) |
 | 2019 | Memristor-Based Neuromorphic Hardware Improvement for Privacy-Preserving ANN | Fu, Jingyan, Zhiheng Liao, and Jinhui Wang | Inference | Privacy on ANNs | IEEE Transactions on Very Large Scale Integration (VLSI) Systems | [Link](https://ieeexplore.ieee.org/abstract/document/8755322)<br> <br> |
 | 2015 | Robustness of Spiking Deep Belief Networks to Noise and Reduced Bit Precision of Neuro-Inspired Hardware Platforms | Evangelos Stromatias et al. | Adversarial | Quantization and noise robustness | Frontiers in neuroscience | [Link](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2015.00222/full)<br> <br> |
+
+<p align="center">
+  <img src="figures/Applications.png" alt="Emerging security applications in neuromorphic computing" width="850">
+</p>
+
+<p align="center">
+  <em>Emerging security applications based on PUFs, TRNGs, in-memory cryptography, and neuromorphic sensing.</em>
+</p>
 
 ## Emerging Security Applications 
 ## [[Back to Top](#survey-on-security-and-privacy-neuromorphic-computing)]
