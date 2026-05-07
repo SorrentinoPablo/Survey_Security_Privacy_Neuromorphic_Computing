@@ -48,7 +48,7 @@ For any recommendations, questions or support, please reach out through: p.f.a.s
 - [-Emerging Security Applications](#Emerging-Security-Applications)
 
 <p align="center">
-  <img src="figures/Inpiration.png" alt="Security and privacy in neuromorphic computing" width="850">
+  <img src="figures/Inspiration.png" alt="Security and privacy in neuromorphic computing" width="850">
 </p>
 
 <p align="center">
@@ -123,6 +123,9 @@ For any recommendations, questions or support, please reach out through: p.f.a.s
 
 </details>
 
+## Hardware Vulnerabilities and Countermeasures 
+## [[Back to Top](#survey-on-security-and-privacy-neuromorphic-computing)]
+
 <p align="center">
   <img src="figures/Hardware_picture.png" alt="Hardware vulnerabilities and countermeasures in neuromorphic systems" width="850">
 </p>
@@ -130,9 +133,6 @@ For any recommendations, questions or support, please reach out through: p.f.a.s
 <p align="center">
   <em>Hardware attack surfaces and countermeasures in neuromorphic, in-memory, and emerging computing systems.</em>
 </p>
-
-## Hardware Vulnerabilities and Countermeasures 
-## [[Back to Top](#survey-on-security-and-privacy-neuromorphic-computing)]
 
 | Year | Title | Authors | Type | Target / Leakage | Venue | Details |
 |------|-------|---------|------|------------------|-------|---------|
@@ -264,6 +264,9 @@ For any recommendations, questions or support, please reach out through: p.f.a.s
 | 2019 | Memristor-Based Neuromorphic Hardware Improvement for Privacy-Preserving ANN | Fu, Jingyan, Zhiheng Liao, and Jinhui Wang | Inference | Privacy on ANNs | IEEE Transactions on Very Large Scale Integration (VLSI) Systems | [Link](https://ieeexplore.ieee.org/abstract/document/8755322)<br> <br> |
 | 2015 | Robustness of Spiking Deep Belief Networks to Noise and Reduced Bit Precision of Neuro-Inspired Hardware Platforms | Evangelos Stromatias et al. | Adversarial | Quantization and noise robustness | Frontiers in neuroscience | [Link](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2015.00222/full)<br> <br> |
 
+## Emerging Security Applications 
+## [[Back to Top](#survey-on-security-and-privacy-neuromorphic-computing)]
+
 <p align="center">
   <img src="figures/Applications.png" alt="Emerging security applications in neuromorphic computing" width="850">
 </p>
@@ -271,9 +274,6 @@ For any recommendations, questions or support, please reach out through: p.f.a.s
 <p align="center">
   <em>Emerging security applications based on PUFs, TRNGs, in-memory cryptography, and neuromorphic sensing.</em>
 </p>
-
-## Emerging Security Applications 
-## [[Back to Top](#survey-on-security-and-privacy-neuromorphic-computing)]
 
 | Year | Title | Authors | Topics | Venue | Details |
 |------|-------|---------|--------|-------|---------|
